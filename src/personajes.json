@@ -1,0 +1,5261 @@
+{
+  "personajes": [
+    {
+      "nombre": "Rem",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 800,
+      "tag": "rem_(re_zero)"
+    },
+    {
+      "nombre": "Ram",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 700,
+      "tag": "ram_(re_zero)"
+    },
+    {
+      "nombre": "Emilia",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 900,
+      "tag": "emilia_(re_zero)"
+    },
+    {
+      "nombre": "Beatrice",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 750,
+      "tag": "beatrice_(re_zero)"
+    },
+    {
+      "nombre": "Echidna",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 1000,
+      "tag": "echidna_(re_zero)"
+    },
+    {
+      "nombre": "Satella",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 1200,
+      "tag": "satella_(re_zero)"
+    },
+    {
+      "nombre": "Frederica",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 500,
+      "tag": "frederica_baumann"
+    },
+    {
+      "nombre": "Anastasia",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 600,
+      "tag": "anastasia_(re_zero)"
+    },
+    {
+      "nombre": "Priscilla",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 550,
+      "tag": "priscilla_barielle"
+    },
+    {
+      "nombre": "Crusch",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 580,
+      "tag": "crusch_karsten"
+    },
+    {
+      "nombre": "Subaru",
+      "genero": "Masculino",
+      "serie": "Re:Zero",
+      "valor": 400,
+      "tag": "natsuki_subaru"
+    },
+    {
+      "nombre": "Reinhard",
+      "genero": "Masculino",
+      "serie": "Re:Zero",
+      "valor": 850,
+      "tag": "reinhard_van_astrea"
+    },
+    {
+      "nombre": "Otto",
+      "genero": "Masculino",
+      "serie": "Re:Zero",
+      "valor": 300,
+      "tag": "otto_suwen"
+    },
+    {
+      "nombre": "Garfiel",
+      "genero": "Masculino",
+      "serie": "Re:Zero",
+      "valor": 350,
+      "tag": "garfiel_tinsel"
+    },
+    {
+      "nombre": "Elsa",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 620,
+      "tag": "elsa_granhiert"
+    },
+    {
+      "nombre": "Meili",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 450,
+      "tag": "meili_(re_zero)"
+    },
+    {
+      "nombre": "Liliana",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 380,
+      "tag": "liliana_masquerade"
+    },
+    {
+      "nombre": "Petra",
+      "genero": "Femenino",
+      "serie": "Re:Zero",
+      "valor": 280,
+      "tag": "petra_leyte"
+    },
+    {
+      "nombre": "Asuna",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 900,
+      "tag": "asuna_(sao)"
+    },
+    {
+      "nombre": "Silica",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 500,
+      "tag": "silica_(sao)"
+    },
+    {
+      "nombre": "Lisbeth",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 480,
+      "tag": "shinozaki_rika"
+    },
+    {
+      "nombre": "Suguha",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 520,
+      "tag": "suguha_kirigaya"
+    },
+    {
+      "nombre": "Sinon",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 700,
+      "tag": "asada_shino"
+    },
+    {
+      "nombre": "Alice",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 850,
+      "tag": "alice_schuberg"
+    },
+    {
+      "nombre": "Eugeo",
+      "genero": "Masculino",
+      "serie": "Sword Art Online",
+      "valor": 400,
+      "tag": "eugeo_(sao)"
+    },
+    {
+      "nombre": "Kirito",
+      "genero": "Masculino",
+      "serie": "Sword Art Online",
+      "valor": 800,
+      "tag": "kirigaya_kazuto"
+    },
+    {
+      "nombre": "Leafa",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 480,
+      "tag": "leafa_(sao)"
+    },
+    {
+      "nombre": "Yui",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 600,
+      "tag": "yui_(sao)"
+    },
+    {
+      "nombre": "Yuuki",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 750,
+      "tag": "yuuki_(sao)"
+    },
+    {
+      "nombre": "Premier",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 350,
+      "tag": "premier_(sao)"
+    },
+    {
+      "nombre": "Tiese",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 320,
+      "tag": "tiese_shtolienen"
+    },
+    {
+      "nombre": "Ronie",
+      "genero": "Femenino",
+      "serie": "Sword Art Online",
+      "valor": 310,
+      "tag": "ronie_arabel"
+    },
+    {
+      "nombre": "Mikasa",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 1000,
+      "tag": "mikasa_ackerman"
+    },
+    {
+      "nombre": "Historia",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 700,
+      "tag": "historia_reiss"
+    },
+    {
+      "nombre": "Annie",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 800,
+      "tag": "annie_leonhardt"
+    },
+    {
+      "nombre": "Hange",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 650,
+      "tag": "hange_zoe"
+    },
+    {
+      "nombre": "Petra",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 600,
+      "tag": "petra_ral"
+    },
+    {
+      "nombre": "Ymir",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 580,
+      "tag": "ymir_(shingeki_no_kyojin)"
+    },
+    {
+      "nombre": "Sasha",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 550,
+      "tag": "blouse_sasha"
+    },
+    {
+      "nombre": "Pieck",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 700,
+      "tag": "pieck_finger"
+    },
+    {
+      "nombre": "Eren",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 900,
+      "tag": "yeager_eren"
+    },
+    {
+      "nombre": "Levi",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 1200,
+      "tag": "levi_(shingeki_no_kyojin)"
+    },
+    {
+      "nombre": "Armin",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 700,
+      "tag": "armin_arlert"
+    },
+    {
+      "nombre": "Erwin",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 850,
+      "tag": "erwin_smith"
+    },
+    {
+      "nombre": "Reiner",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 750,
+      "tag": "braun_reiner"
+    },
+    {
+      "nombre": "Jean",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 500,
+      "tag": "kirschtein_jean"
+    },
+    {
+      "nombre": "Connie",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 400,
+      "tag": "springer_connie"
+    },
+    {
+      "nombre": "Bertholdt",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 600,
+      "tag": "fubar_bertholdt"
+    },
+    {
+      "nombre": "Zeke",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 800,
+      "tag": "yeager_zeke"
+    },
+    {
+      "nombre": "Falco",
+      "genero": "Masculino",
+      "serie": "Attack on Titan",
+      "valor": 350,
+      "tag": "grice_falco"
+    },
+    {
+      "nombre": "Gabi",
+      "genero": "Femenino",
+      "serie": "Attack on Titan",
+      "valor": 500,
+      "tag": "braun_gabi"
+    },
+    {
+      "nombre": "Hinata",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 800,
+      "tag": "hyuuga_hinata"
+    },
+    {
+      "nombre": "Sakura",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 700,
+      "tag": "haruno_sakura"
+    },
+    {
+      "nombre": "Tsunade",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 1000,
+      "tag": "tsunade"
+    },
+    {
+      "nombre": "Temari",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 700,
+      "tag": "temari_(naruto)"
+    },
+    {
+      "nombre": "Ino",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 600,
+      "tag": "yamanaka_ino"
+    },
+    {
+      "nombre": "Tenten",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 550,
+      "tag": "tenten_(naruto)"
+    },
+    {
+      "nombre": "Konan",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 900,
+      "tag": "konan_(naruto)"
+    },
+    {
+      "nombre": "Karin",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 650,
+      "tag": "uzumaki_karin"
+    },
+    {
+      "nombre": "Kurenai",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 700,
+      "tag": "yuuhi_kurenai"
+    },
+    {
+      "nombre": "Anko",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 750,
+      "tag": "mitarashi_anko"
+    },
+    {
+      "nombre": "Mei",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 800,
+      "tag": "terumi_mei"
+    },
+    {
+      "nombre": "Kushina",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 850,
+      "tag": "uzumaki_kushina"
+    },
+    {
+      "nombre": "Naruto",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 1000,
+      "tag": "uzumaki_naruto"
+    },
+    {
+      "nombre": "Sasuke",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 1100,
+      "tag": "uchiha_sasuke"
+    },
+    {
+      "nombre": "Kakashi",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 1200,
+      "tag": "hatake_kakashi"
+    },
+    {
+      "nombre": "Itachi",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 1300,
+      "tag": "uchiha_itachi"
+    },
+    {
+      "nombre": "Gaara",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 900,
+      "tag": "sabaku_no_gaara"
+    },
+    {
+      "nombre": "Minato",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 1100,
+      "tag": "namikaze_minato"
+    },
+    {
+      "nombre": "Rock Lee",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 700,
+      "tag": "rock_lee"
+    },
+    {
+      "nombre": "Neji",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 750,
+      "tag": "hyuuga_neji"
+    },
+    {
+      "nombre": "Shikamaru",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 800,
+      "tag": "nara_shikamaru"
+    },
+    {
+      "nombre": "Jiraiya",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 1000,
+      "tag": "jiraiya_(naruto)"
+    },
+    {
+      "nombre": "Orochimaru",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 950,
+      "tag": "orochimaru_(naruto)"
+    },
+    {
+      "nombre": "Nezuko",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 1000,
+      "tag": "kamado_nezuko"
+    },
+    {
+      "nombre": "Shinobu",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 900,
+      "tag": "kochou_shinobu"
+    },
+    {
+      "nombre": "Mitsuri",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 850,
+      "tag": "kanroji_mitsuri"
+    },
+    {
+      "nombre": "Kanao",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 750,
+      "tag": "tsuyuri_kanao"
+    },
+    {
+      "nombre": "Aoi",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 500,
+      "tag": "kanzaki_aoi"
+    },
+    {
+      "nombre": "Daki",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 700,
+      "tag": "daki_(kimetsu)"
+    },
+    {
+      "nombre": "Tamayo",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 800,
+      "tag": "tamayo_(kimetsu)"
+    },
+    {
+      "nombre": "Nakime",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 650,
+      "tag": "nakime_(kimetsu)"
+    },
+    {
+      "nombre": "Tanjiro",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1000,
+      "tag": "kamado_tanjiro"
+    },
+    {
+      "nombre": "Zenitsu",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 700,
+      "tag": "agatsuma_zenitsu"
+    },
+    {
+      "nombre": "Inosuke",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 750,
+      "tag": "hashibira_inosuke"
+    },
+    {
+      "nombre": "Rengoku",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1200,
+      "tag": "rengoku_kyoujurou"
+    },
+    {
+      "nombre": "Tengen",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1100,
+      "tag": "uzui_tengen"
+    },
+    {
+      "nombre": "Gyomei",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1300,
+      "tag": "himejima_gyomei"
+    },
+    {
+      "nombre": "Muichiro",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1000,
+      "tag": "tokito_muichiro"
+    },
+    {
+      "nombre": "Sanemi",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 900,
+      "tag": "shinazugawa_sanemi"
+    },
+    {
+      "nombre": "Giyu",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1000,
+      "tag": "tomioka_giyu"
+    },
+    {
+      "nombre": "Obanai",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 850,
+      "tag": "iguro_obanai"
+    },
+    {
+      "nombre": "Douma",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1100,
+      "tag": "douma_(kimetsu)"
+    },
+    {
+      "nombre": "Akaza",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1200,
+      "tag": "akaza_(kimetsu)"
+    },
+    {
+      "nombre": "Kokushibo",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 1500,
+      "tag": "kokushibo_(kimetsu)"
+    },
+    {
+      "nombre": "Muzan",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 2000,
+      "tag": "kibutsuji_muzan"
+    },
+    {
+      "nombre": "Nobara",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 800,
+      "tag": "kugisaki_nobara"
+    },
+    {
+      "nombre": "Maki",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 900,
+      "tag": "zenin_maki"
+    },
+    {
+      "nombre": "Mai",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 750,
+      "tag": "zenin_mai"
+    },
+    {
+      "nombre": "Mei Mei",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 700,
+      "tag": "mei_mei_(jujutsu)"
+    },
+    {
+      "nombre": "Miwa",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 600,
+      "tag": "miwa_kasumi"
+    },
+    {
+      "nombre": "Uraume",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 700,
+      "tag": "uraume_(jujutsu)"
+    },
+    {
+      "nombre": "Yuki",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 800,
+      "tag": "tsukumo_yuki"
+    },
+    {
+      "nombre": "Shoko",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 700,
+      "tag": "ieiri_shoko"
+    },
+    {
+      "nombre": "Yuji",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 1000,
+      "tag": "itadori_yuji"
+    },
+    {
+      "nombre": "Megumi",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 950,
+      "tag": "fushiguro_megumi"
+    },
+    {
+      "nombre": "Gojo",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 2000,
+      "tag": "gojo_satoru"
+    },
+    {
+      "nombre": "Nanami",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 1100,
+      "tag": "nanami_kento"
+    },
+    {
+      "nombre": "Todo",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 900,
+      "tag": "aoi_todo"
+    },
+    {
+      "nombre": "Choso",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 850,
+      "tag": "kamo_choso"
+    },
+    {
+      "nombre": "Sukuna",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 2500,
+      "tag": "ryoumen_sukuna"
+    },
+    {
+      "nombre": "Geto",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 1500,
+      "tag": "geto_suguru"
+    },
+    {
+      "nombre": "Toji",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 1400,
+      "tag": "fushiguro_toji"
+    },
+    {
+      "nombre": "Hakari",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 1000,
+      "tag": "hakari_kinji"
+    },
+    {
+      "nombre": "Ochako",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 800,
+      "tag": "uraraka_ochako"
+    },
+    {
+      "nombre": "Tsuyu",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 750,
+      "tag": "asui_tsuyu"
+    },
+    {
+      "nombre": "Momo",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 850,
+      "tag": "yaoyorozu_momo"
+    },
+    {
+      "nombre": "Jirou",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 700,
+      "tag": "jirou_kyouka"
+    },
+    {
+      "nombre": "Mina",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 720,
+      "tag": "ashido_mina"
+    },
+    {
+      "nombre": "Toga",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 900,
+      "tag": "toga_himiko"
+    },
+    {
+      "nombre": "Mirko",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 1100,
+      "tag": "usagiyama_rumi"
+    },
+    {
+      "nombre": "Mt. Lady",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 800,
+      "tag": "mt._lady"
+    },
+    {
+      "nombre": "Camie",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 700,
+      "tag": "utsushimi_camie"
+    },
+    {
+      "nombre": "Nejire",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 850,
+      "tag": "hado_nejire"
+    },
+    {
+      "nombre": "Ibara",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 600,
+      "tag": "shiozaki_ibara"
+    },
+    {
+      "nombre": "Mei",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 700,
+      "tag": "hatsume_mei"
+    },
+    {
+      "nombre": "Deku",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1000,
+      "tag": "midoriya_izuku"
+    },
+    {
+      "nombre": "Bakugo",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1100,
+      "tag": "bakugou_katsuki"
+    },
+    {
+      "nombre": "Todoroki",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1200,
+      "tag": "todoroki_shouto"
+    },
+    {
+      "nombre": "All Might",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 2000,
+      "tag": "all_might"
+    },
+    {
+      "nombre": "Aizawa",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1300,
+      "tag": "aizawa_shouta"
+    },
+    {
+      "nombre": "Hawks",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1200,
+      "tag": "hawks_(boku_no_hero)"
+    },
+    {
+      "nombre": "Dabi",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1100,
+      "tag": "dabi_(boku_no_hero)"
+    },
+    {
+      "nombre": "Shigaraki",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1500,
+      "tag": "shigaraki_tomura"
+    },
+    {
+      "nombre": "Overhaul",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1400,
+      "tag": "overhaul_(boku_no_hero)"
+    },
+    {
+      "nombre": "Lemillion",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 1100,
+      "tag": "togata_mirio"
+    },
+    {
+      "nombre": "Nami",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 900,
+      "tag": "nami_(one_piece)"
+    },
+    {
+      "nombre": "Robin",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 950,
+      "tag": "nico_robin"
+    },
+    {
+      "nombre": "Vivi",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 750,
+      "tag": "nefertari_vivi"
+    },
+    {
+      "nombre": "Perona",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 700,
+      "tag": "perona_(one_piece)"
+    },
+    {
+      "nombre": "Boa Hancock",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 1200,
+      "tag": "boa_hancock"
+    },
+    {
+      "nombre": "Nefertari",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 700,
+      "tag": "nefertari_vivi"
+    },
+    {
+      "nombre": "Carrot",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 800,
+      "tag": "carrot_(one_piece)"
+    },
+    {
+      "nombre": "Yamato",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 1000,
+      "tag": "yamato_(one_piece)"
+    },
+    {
+      "nombre": "Luffy",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1500,
+      "tag": "monkey_d._luffy"
+    },
+    {
+      "nombre": "Zoro",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1400,
+      "tag": "roronoa_zoro"
+    },
+    {
+      "nombre": "Sanji",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1100,
+      "tag": "sanji_(one_piece)"
+    },
+    {
+      "nombre": "Ace",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1300,
+      "tag": "portgas_d._ace"
+    },
+    {
+      "nombre": "Sabo",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1200,
+      "tag": "sabo_(one_piece)"
+    },
+    {
+      "nombre": "Law",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1300,
+      "tag": "trafalgar_law"
+    },
+    {
+      "nombre": "Shanks",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 2000,
+      "tag": "shanks_(one_piece)"
+    },
+    {
+      "nombre": "Whitebeard",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 2500,
+      "tag": "edward_newgate"
+    },
+    {
+      "nombre": "Marco",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1400,
+      "tag": "marco_(one_piece)"
+    },
+    {
+      "nombre": "Jinbe",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1100,
+      "tag": "jinbe_(one_piece)"
+    },
+    {
+      "nombre": "Crocodile",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1200,
+      "tag": "crocodile_(one_piece)"
+    },
+    {
+      "nombre": "Doflamingo",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1500,
+      "tag": "donquixote_doflamingo"
+    },
+    {
+      "nombre": "Katakuri",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1800,
+      "tag": "charlotte_katakuri"
+    },
+    {
+      "nombre": "Kaido",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 2500,
+      "tag": "kaido_(one_piece)"
+    },
+    {
+      "nombre": "Mihawk",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 2000,
+      "tag": "dracule_mihawk"
+    },
+    {
+      "nombre": "Rayleigh",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 1800,
+      "tag": "silvers_rayleigh"
+    },
+    {
+      "nombre": "Bulma",
+      "genero": "Femenino",
+      "serie": "Dragon Ball",
+      "valor": 800,
+      "tag": "bulma"
+    },
+    {
+      "nombre": "Android 18",
+      "genero": "Femenino",
+      "serie": "Dragon Ball",
+      "valor": 1020,
+      "tag": "android_18"
+    },
+    {
+      "nombre": "Chi-Chi",
+      "genero": "Femenino",
+      "serie": "Dragon Ball",
+      "valor": 700,
+      "tag": "chi-chi_(dragon_ball)"
+    },
+    {
+      "nombre": "Pan",
+      "genero": "Femenino",
+      "serie": "Dragon Ball",
+      "valor": 600,
+      "tag": "pan_(dragon_ball)"
+    },
+    {
+      "nombre": "Videl",
+      "genero": "Femenino",
+      "serie": "Dragon Ball",
+      "valor": 750,
+      "tag": "videl"
+    },
+    {
+      "nombre": "Caulifla",
+      "genero": "Femenino",
+      "serie": "Dragon Ball",
+      "valor": 900,
+      "tag": "caulifla"
+    },
+    {
+      "nombre": "Kale",
+      "genero": "Femenino",
+      "serie": "Dragon Ball",
+      "valor": 900,
+      "tag": "kale_(dragon_ball)"
+    },
+    {
+      "nombre": "Cheelai",
+      "genero": "Femenino",
+      "serie": "Dragon Ball",
+      "valor": 700,
+      "tag": "cheelai"
+    },
+    {
+      "nombre": "Goku",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 2000,
+      "tag": "son_goku"
+    },
+    {
+      "nombre": "Vegeta",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 1900,
+      "tag": "vegeta"
+    },
+    {
+      "nombre": "Gohan",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 1700,
+      "tag": "son_gohan"
+    },
+    {
+      "nombre": "Goten",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 1100,
+      "tag": "son_goten"
+    },
+    {
+      "nombre": "Trunks",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 1200,
+      "tag": "trunks_(dragon_ball)"
+    },
+    {
+      "nombre": "Piccolo",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 1400,
+      "tag": "piccolo_(dragon_ball)"
+    },
+    {
+      "nombre": "Broly",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 2000,
+      "tag": "broly_(dragon_ball)"
+    },
+    {
+      "nombre": "Frieza",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 1800,
+      "tag": "freeza"
+    },
+    {
+      "nombre": "Cell",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 1700,
+      "tag": "cell_(dragon_ball)"
+    },
+    {
+      "nombre": "Beerus",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 2500,
+      "tag": "beerus"
+    },
+    {
+      "nombre": "Hit",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 2000,
+      "tag": "hit_(dragon_ball)"
+    },
+    {
+      "nombre": "Jiren",
+      "genero": "Masculino",
+      "serie": "Dragon Ball",
+      "valor": 2800,
+      "tag": "jiren_(dragon_ball)"
+    },
+    {
+      "nombre": "Saber",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 1200,
+      "tag": "saber_(fate)"
+    },
+    {
+      "nombre": "Rin",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 900,
+      "tag": "tohsaka_rin"
+    },
+    {
+      "nombre": "Sakura",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 800,
+      "tag": "matou_sakura"
+    },
+    {
+      "nombre": "Illyasviel",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 1000,
+      "tag": "illyasviel_von_einzbern"
+    },
+    {
+      "nombre": "Morgan",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 1100,
+      "tag": "morgan_le_fay_(fate)"
+    },
+    {
+      "nombre": "Scathach",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 1300,
+      "tag": "scathach_(fate)"
+    },
+    {
+      "nombre": "Tamamo",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 1100,
+      "tag": "tamamo_no_mae_(fate)"
+    },
+    {
+      "nombre": "Nero",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 1000,
+      "tag": "nero_claudius_(fate)"
+    },
+    {
+      "nombre": "Artoria",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 1500,
+      "tag": "artoria_pendragon"
+    },
+    {
+      "nombre": "BB",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 1000,
+      "tag": "bb_(fate)"
+    },
+    {
+      "nombre": "Ritsuka",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 700,
+      "tag": "fujimaru_ritsuka_(female)"
+    },
+    {
+      "nombre": "Medusa",
+      "genero": "Femenino",
+      "serie": "Fate",
+      "valor": 900,
+      "tag": "medusa_(fate)"
+    },
+    {
+      "nombre": "Emiya",
+      "genero": "Masculino",
+      "serie": "Fate",
+      "valor": 900,
+      "tag": "emiya_shirou"
+    },
+    {
+      "nombre": "Gilgamesh",
+      "genero": "Masculino",
+      "serie": "Fate",
+      "valor": 2000,
+      "tag": "gilgamesh_(fate)"
+    },
+    {
+      "nombre": "Cu Chulainn",
+      "genero": "Masculino",
+      "serie": "Fate",
+      "valor": 1000,
+      "tag": "cu_chulainn_(fate)"
+    },
+    {
+      "nombre": "Merlin",
+      "genero": "Masculino",
+      "serie": "Fate",
+      "valor": 1800,
+      "tag": "merlin_(fate)"
+    },
+    {
+      "nombre": "Iskander",
+      "genero": "Masculino",
+      "serie": "Fate",
+      "valor": 1500,
+      "tag": "rider_(fate/zero)"
+    },
+    {
+      "nombre": "Archer",
+      "genero": "Masculino",
+      "serie": "Fate",
+      "valor": 1200,
+      "tag": "archer_(fate)"
+    },
+    {
+      "nombre": "Aqua",
+      "genero": "Femenino",
+      "serie": "Konosuba",
+      "valor": 900,
+      "tag": "aqua_(konosuba)"
+    },
+    {
+      "nombre": "Megumin",
+      "genero": "Femenino",
+      "serie": "Konosuba",
+      "valor": 1000,
+      "tag": "megumin_(konosuba)"
+    },
+    {
+      "nombre": "Darkness",
+      "genero": "Femenino",
+      "serie": "Konosuba",
+      "valor": 850,
+      "tag": "lalatina_dustiness_ford"
+    },
+    {
+      "nombre": "Wiz",
+      "genero": "Femenino",
+      "serie": "Konosuba",
+      "valor": 700,
+      "tag": "wiz_(konosuba)"
+    },
+    {
+      "nombre": "Yunyun",
+      "genero": "Femenino",
+      "serie": "Konosuba",
+      "valor": 750,
+      "tag": "yunyun_(konosuba)"
+    },
+    {
+      "nombre": "Eris",
+      "genero": "Femenino",
+      "serie": "Konosuba",
+      "valor": 900,
+      "tag": "eris_(konosuba)"
+    },
+    {
+      "nombre": "Kazuma",
+      "genero": "Masculino",
+      "serie": "Konosuba",
+      "valor": 800,
+      "tag": "satou_kazuma"
+    },
+    {
+      "nombre": "Vanir",
+      "genero": "Masculino",
+      "serie": "Konosuba",
+      "valor": 1200,
+      "tag": "vanir_(konosuba)"
+    },
+    {
+      "nombre": "Tohka",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 900,
+      "tag": "yatogami_tohka"
+    },
+    {
+      "nombre": "Kurumi",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 1200,
+      "tag": "tokisaki_kurumi"
+    },
+    {
+      "nombre": "Kotori",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 800,
+      "tag": "itsuka_kotori"
+    },
+    {
+      "nombre": "Yoshino",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 700,
+      "tag": "yoshino_(date_a_live)"
+    },
+    {
+      "nombre": "Origami",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 850,
+      "tag": "tobiichi_origami"
+    },
+    {
+      "nombre": "Mukuro",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 900,
+      "tag": "hoshimiya_mukuro"
+    },
+    {
+      "nombre": "Nia",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 800,
+      "tag": "honjou_nia"
+    },
+    {
+      "nombre": "Miku",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 750,
+      "tag": "izayoi_miku"
+    },
+    {
+      "nombre": "Natsumi",
+      "genero": "Femenino",
+      "serie": "Date A Live",
+      "valor": 800,
+      "tag": "kyouno_natsumi"
+    },
+    {
+      "nombre": "Shido",
+      "genero": "Masculino",
+      "serie": "Date A Live",
+      "valor": 700,
+      "tag": "itsuka_shidou"
+    },
+    {
+      "nombre": "Albedo",
+      "genero": "Femenino",
+      "serie": "Overlord",
+      "valor": 1000,
+      "tag": "albedo_(overlord)"
+    },
+    {
+      "nombre": "Shalltear",
+      "genero": "Femenino",
+      "serie": "Overlord",
+      "valor": 950,
+      "tag": "shalltear_bloodfallen"
+    },
+    {
+      "nombre": "Aura",
+      "genero": "Femenino",
+      "serie": "Overlord",
+      "valor": 750,
+      "tag": "aura_bella_fiora"
+    },
+    {
+      "nombre": "Narberal",
+      "genero": "Femenino",
+      "serie": "Overlord",
+      "valor": 800,
+      "tag": "narberal_gamma"
+    },
+    {
+      "nombre": "Solution",
+      "genero": "Femenino",
+      "serie": "Overlord",
+      "valor": 750,
+      "tag": "solution_epsilon"
+    },
+    {
+      "nombre": "Entoma",
+      "genero": "Femenino",
+      "serie": "Overlord",
+      "valor": 700,
+      "tag": "entoma_vasilissa_zeta"
+    },
+    {
+      "nombre": "Lupusregina",
+      "genero": "Femenino",
+      "serie": "Overlord",
+      "valor": 750,
+      "tag": "lupusregina_beta"
+    },
+    {
+      "nombre": "Shizu",
+      "genero": "Femenino",
+      "serie": "Overlord",
+      "valor": 700,
+      "tag": "shizu_(overlord)"
+    },
+    {
+      "nombre": "Ainz",
+      "genero": "Masculino",
+      "serie": "Overlord",
+      "valor": 2000,
+      "tag": "ainz_ooal_gown"
+    },
+    {
+      "nombre": "Demiurge",
+      "genero": "Masculino",
+      "serie": "Overlord",
+      "valor": 1500,
+      "tag": "demiurge_(overlord)"
+    },
+    {
+      "nombre": "Cocytus",
+      "genero": "Masculino",
+      "serie": "Overlord",
+      "valor": 1300,
+      "tag": "cocytus_(overlord)"
+    },
+    {
+      "nombre": "Pandora",
+      "genero": "Masculino",
+      "serie": "Overlord",
+      "valor": 1100,
+      "tag": "pandoras_actor"
+    },
+    {
+      "nombre": "Makima",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 1400,
+      "tag": "makima_(chainsaw_man)"
+    },
+    {
+      "nombre": "Power",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 1100,
+      "tag": "power_(chainsaw_man)"
+    },
+    {
+      "nombre": "Reze",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 1000,
+      "tag": "reze_(chainsaw_man)"
+    },
+    {
+      "nombre": "Himeno",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 900,
+      "tag": "himeno_(chainsaw_man)"
+    },
+    {
+      "nombre": "Kobeni",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 750,
+      "tag": "kobeni_higashiyama"
+    },
+    {
+      "nombre": "Quanxi",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 1200,
+      "tag": "quanxi_(chainsaw_man)"
+    },
+    {
+      "nombre": "Asa",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 900,
+      "tag": "mitaka_asa"
+    },
+    {
+      "nombre": "Nayuta",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 1000,
+      "tag": "nayuta_(chainsaw_man)"
+    },
+    {
+      "nombre": "Denji",
+      "genero": "Masculino",
+      "serie": "Chainsaw Man",
+      "valor": 1000,
+      "tag": "denji_(chainsaw_man)"
+    },
+    {
+      "nombre": "Aki",
+      "genero": "Masculino",
+      "serie": "Chainsaw Man",
+      "valor": 850,
+      "tag": "hayakawa_aki"
+    },
+    {
+      "nombre": "Angel",
+      "genero": "Masculino",
+      "serie": "Chainsaw Man",
+      "valor": 900,
+      "tag": "angel_devil"
+    },
+    {
+      "nombre": "Kishibe",
+      "genero": "Masculino",
+      "serie": "Chainsaw Man",
+      "valor": 1300,
+      "tag": "kishibe_(chainsaw_man)"
+    },
+    {
+      "nombre": "Yoshida",
+      "genero": "Masculino",
+      "serie": "Chainsaw Man",
+      "valor": 800,
+      "tag": "yoshida_(chainsaw_man)"
+    },
+    {
+      "nombre": "Fumiko",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 700,
+      "tag": "fujimoto_fumiko"
+    },
+    {
+      "nombre": "Yor",
+      "genero": "Femenino",
+      "serie": "Spy x Family",
+      "valor": 1000,
+      "tag": "yor_forger"
+    },
+    {
+      "nombre": "Anya",
+      "genero": "Femenino",
+      "serie": "Spy x Family",
+      "valor": 950,
+      "tag": "anya_forger"
+    },
+    {
+      "nombre": "Sylvia",
+      "genero": "Femenino",
+      "serie": "Spy x Family",
+      "valor": 800,
+      "tag": "sylvia_sherwood"
+    },
+    {
+      "nombre": "Fiona",
+      "genero": "Femenino",
+      "serie": "Spy x Family",
+      "valor": 850,
+      "tag": "fiona_frost"
+    },
+    {
+      "nombre": "Loid",
+      "genero": "Masculino",
+      "serie": "Spy x Family",
+      "valor": 1100,
+      "tag": "loid_forger"
+    },
+    {
+      "nombre": "Yuri",
+      "genero": "Masculino",
+      "serie": "Spy x Family",
+      "valor": 750,
+      "tag": "yuri_briar"
+    },
+    {
+      "nombre": "Damian",
+      "genero": "Masculino",
+      "serie": "Spy x Family",
+      "valor": 600,
+      "tag": "desmond_damian"
+    },
+    {
+      "nombre": "Franky",
+      "genero": "Masculino",
+      "serie": "Spy x Family",
+      "valor": 500,
+      "tag": "franklin_perkin"
+    },
+    {
+      "nombre": "Bond",
+      "genero": "Masculino",
+      "serie": "Spy x Family",
+      "valor": 400,
+      "tag": "bond_(spy_x_family)"
+    },
+    {
+      "nombre": "Zero Two",
+      "genero": "Femenino",
+      "serie": "Darling in the FranXX",
+      "valor": 1400,
+      "tag": "zero_two"
+    },
+    {
+      "nombre": "Ichigo",
+      "genero": "Femenino",
+      "serie": "Darling in the FranXX",
+      "valor": 900,
+      "tag": "ichigo_(darling_in_the_franxx)"
+    },
+    {
+      "nombre": "Kokoro",
+      "genero": "Femenino",
+      "serie": "Darling in the FranXX",
+      "valor": 850,
+      "tag": "kokoro_(darling_in_the_franxx)"
+    },
+    {
+      "nombre": "Miku",
+      "genero": "Femenino",
+      "serie": "Darling in the FranXX",
+      "valor": 800,
+      "tag": "miku_(darling_in_the_franxx)"
+    },
+    {
+      "nombre": "Ikuno",
+      "genero": "Femenino",
+      "serie": "Darling in the FranXX",
+      "valor": 750,
+      "tag": "ikuno_(darling_in_the_franxx)"
+    },
+    {
+      "nombre": "Hiro",
+      "genero": "Masculino",
+      "serie": "Darling in the FranXX",
+      "valor": 1000,
+      "tag": "hiro_(darling_in_the_franxx)"
+    },
+    {
+      "nombre": "Goro",
+      "genero": "Masculino",
+      "serie": "Darling in the FranXX",
+      "valor": 700,
+      "tag": "goro_(darling_in_the_franxx)"
+    },
+    {
+      "nombre": "Zorome",
+      "genero": "Masculino",
+      "serie": "Darling in the FranXX",
+      "valor": 600,
+      "tag": "zorome_(darling_in_the_franxx)"
+    },
+    {
+      "nombre": "Futoshi",
+      "genero": "Masculino",
+      "serie": "Darling in the FranXX",
+      "valor": 550,
+      "tag": "futoshi_(darling_in_the_franxx)"
+    },
+    {
+      "nombre": "Tohru",
+      "genero": "Femenino",
+      "serie": "Miss Kobayashi Dragon Maid",
+      "valor": 1000,
+      "tag": "tohru_(kobayashi_dragon_maid)"
+    },
+    {
+      "nombre": "Kanna",
+      "genero": "Femenino",
+      "serie": "Miss Kobayashi Dragon Maid",
+      "valor": 900,
+      "tag": "kanna_kamui"
+    },
+    {
+      "nombre": "Lucoa",
+      "genero": "Femenino",
+      "serie": "Miss Kobayashi Dragon Maid",
+      "valor": 1100,
+      "tag": "quetzalcoatl_(dragon_maid)"
+    },
+    {
+      "nombre": "Elma",
+      "genero": "Femenino",
+      "serie": "Miss Kobayashi Dragon Maid",
+      "valor": 850,
+      "tag": "elma_(dragon_maid)"
+    },
+    {
+      "nombre": "Ilulu",
+      "genero": "Femenino",
+      "serie": "Miss Kobayashi Dragon Maid",
+      "valor": 800,
+      "tag": "ilulu_(dragon_maid)"
+    },
+    {
+      "nombre": "Kobayashi",
+      "genero": "Femenino",
+      "serie": "Miss Kobayashi Dragon Maid",
+      "valor": 750,
+      "tag": "kobayashi_(dragon_maid)"
+    },
+    {
+      "nombre": "Fafnir",
+      "genero": "Masculino",
+      "serie": "Miss Kobayashi Dragon Maid",
+      "valor": 900,
+      "tag": "fafnir_(dragon_maid)"
+    },
+    {
+      "nombre": "Ichika",
+      "genero": "Femenino",
+      "serie": "The Quintessential Quintuplets",
+      "valor": 800,
+      "tag": "nakano_ichika"
+    },
+    {
+      "nombre": "Nino",
+      "genero": "Femenino",
+      "serie": "The Quintessential Quintuplets",
+      "valor": 850,
+      "tag": "nakano_nino"
+    },
+    {
+      "nombre": "Miku",
+      "genero": "Femenino",
+      "serie": "The Quintessential Quintuplets",
+      "valor": 900,
+      "tag": "nakano_miku"
+    },
+    {
+      "nombre": "Yotsuba",
+      "genero": "Femenino",
+      "serie": "The Quintessential Quintuplets",
+      "valor": 820,
+      "tag": "nakano_yotsuba"
+    },
+    {
+      "nombre": "Itsuki",
+      "genero": "Femenino",
+      "serie": "The Quintessential Quintuplets",
+      "valor": 800,
+      "tag": "nakano_itsuki"
+    },
+    {
+      "nombre": "Fuutarou",
+      "genero": "Masculino",
+      "serie": "The Quintessential Quintuplets",
+      "valor": 700,
+      "tag": "uesugi_fuutarou"
+    },
+    {
+      "nombre": "Lumine",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 900,
+      "tag": "lumine_(genshin_impact)"
+    },
+    {
+      "nombre": "Ganyu",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 1000,
+      "tag": "ganyu_(genshin_impact)"
+    },
+    {
+      "nombre": "Hu Tao",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 950,
+      "tag": "hu_tao_(genshin_impact)"
+    },
+    {
+      "nombre": "Raiden Shogun",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 1200,
+      "tag": "raiden_shogun"
+    },
+    {
+      "nombre": "Yae Miko",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 1100,
+      "tag": "yae_miko"
+    },
+    {
+      "nombre": "Kokomi",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 900,
+      "tag": "sangonomiya_kokomi"
+    },
+    {
+      "nombre": "Fischl",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 850,
+      "tag": "fischl_(genshin_impact)"
+    },
+    {
+      "nombre": "Keqing",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 950,
+      "tag": "keqing_(genshin_impact)"
+    },
+    {
+      "nombre": "Ningguang",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 900,
+      "tag": "ningguang_(genshin_impact)"
+    },
+    {
+      "nombre": "Eula",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 1000,
+      "tag": "eula_(genshin_impact)"
+    },
+    {
+      "nombre": "Shenhe",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 950,
+      "tag": "shenhe_(genshin_impact)"
+    },
+    {
+      "nombre": "Yelan",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 900,
+      "tag": "yelan_(genshin_impact)"
+    },
+    {
+      "nombre": "Nahida",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 1000,
+      "tag": "nahida_(genshin_impact)"
+    },
+    {
+      "nombre": "Nilou",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 950,
+      "tag": "nilou_(genshin_impact)"
+    },
+    {
+      "nombre": "Furina",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 1100,
+      "tag": "furina_(genshin_impact)"
+    },
+    {
+      "nombre": "Neuvilette",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1200,
+      "tag": "neuvilette_(genshin_impact)"
+    },
+    {
+      "nombre": "Zhongli",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1500,
+      "tag": "zhongli_(genshin_impact)"
+    },
+    {
+      "nombre": "Tartaglia",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1300,
+      "tag": "tartaglia_(genshin_impact)"
+    },
+    {
+      "nombre": "Xiao",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1200,
+      "tag": "xiao_(genshin_impact)"
+    },
+    {
+      "nombre": "Kazuha",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1100,
+      "tag": "kaedehara_kazuha"
+    },
+    {
+      "nombre": "Cyno",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1000,
+      "tag": "cyno_(genshin_impact)"
+    },
+    {
+      "nombre": "Alhaitham",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1200,
+      "tag": "alhaitham_(genshin_impact)"
+    },
+    {
+      "nombre": "Wanderer",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1400,
+      "tag": "scaramouche_(genshin_impact)"
+    },
+    {
+      "nombre": "Diluc",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1300,
+      "tag": "diluc_(genshin_impact)"
+    },
+    {
+      "nombre": "Venti",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1400,
+      "tag": "venti_(genshin_impact)"
+    },
+    {
+      "nombre": "Lyney",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 1000,
+      "tag": "lyney_(genshin_impact)"
+    },
+    {
+      "nombre": "Rukia",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 1000,
+      "tag": "kuchiki_rukia"
+    },
+    {
+      "nombre": "Orihime",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 900,
+      "tag": "inoue_orihime"
+    },
+    {
+      "nombre": "Yoruichi",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 1100,
+      "tag": "shihouin_yoruichi"
+    },
+    {
+      "nombre": "Rangiku",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 950,
+      "tag": "matsumoto_rangiku"
+    },
+    {
+      "nombre": "Nell",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 1000,
+      "tag": "nelliel_tu_odelschwanck"
+    },
+    {
+      "nombre": "Unohana",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 1200,
+      "tag": "unohana_retsu"
+    },
+    {
+      "nombre": "Harribel",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 1100,
+      "tag": "tier_harribel"
+    },
+    {
+      "nombre": "Soi Fon",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 1000,
+      "tag": "soi_fon"
+    },
+    {
+      "nombre": "Lisa",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 900,
+      "tag": "lisa_yadomaru"
+    },
+    {
+      "nombre": "Nemu",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 850,
+      "tag": "nemu_kurotsuchi"
+    },
+    {
+      "nombre": "Ichigo",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1500,
+      "tag": "kurosaki_ichigo"
+    },
+    {
+      "nombre": "Byakuya",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1400,
+      "tag": "kuchiki_byakuya"
+    },
+    {
+      "nombre": "Renji",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1100,
+      "tag": "abarai_renji"
+    },
+    {
+      "nombre": "Aizen",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 2000,
+      "tag": "aizen_sousuke"
+    },
+    {
+      "nombre": "Zaraki",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1800,
+      "tag": "zaraki_kenpachi"
+    },
+    {
+      "nombre": "Urahara",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1600,
+      "tag": "urahara_kisuke"
+    },
+    {
+      "nombre": "Gin",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1300,
+      "tag": "ichimaru_gin"
+    },
+    {
+      "nombre": "Grimmjow",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1400,
+      "tag": "grimmjow_jaegerjaquez"
+    },
+    {
+      "nombre": "Ulquiorra",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1600,
+      "tag": "ulquiorra_cifer"
+    },
+    {
+      "nombre": "Shinji",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 1200,
+      "tag": "hirako_shinji"
+    },
+    {
+      "nombre": "Erza",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 1200,
+      "tag": "scarlet_erza"
+    },
+    {
+      "nombre": "Lucy",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 900,
+      "tag": "heartfilia_lucy"
+    },
+    {
+      "nombre": "Mirajane",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 1100,
+      "tag": "strauss_mirajane"
+    },
+    {
+      "nombre": "Juvia",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 900,
+      "tag": "lockser_juvia"
+    },
+    {
+      "nombre": "Wendy",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 800,
+      "tag": "marvell_wendy"
+    },
+    {
+      "nombre": "Cana",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 850,
+      "tag": "alberona_cana"
+    },
+    {
+      "nombre": "Levy",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 750,
+      "tag": "mcgarden_levy"
+    },
+    {
+      "nombre": "Lisanna",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 700,
+      "tag": "strauss_lisanna"
+    },
+    {
+      "nombre": "Ultear",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 900,
+      "tag": "milkovich_ultear"
+    },
+    {
+      "nombre": "Minerva",
+      "genero": "Femenino",
+      "serie": "Fairy Tail",
+      "valor": 950,
+      "tag": "orland_minerva"
+    },
+    {
+      "nombre": "Natsu",
+      "genero": "Masculino",
+      "serie": "Fairy Tail",
+      "valor": 1200,
+      "tag": "dragneel_natsu"
+    },
+    {
+      "nombre": "Gray",
+      "genero": "Masculino",
+      "serie": "Fairy Tail",
+      "valor": 1100,
+      "tag": "fullbuster_gray"
+    },
+    {
+      "nombre": "Jellal",
+      "genero": "Masculino",
+      "serie": "Fairy Tail",
+      "valor": 1300,
+      "tag": "fernandes_jellal"
+    },
+    {
+      "nombre": "Gajeel",
+      "genero": "Masculino",
+      "serie": "Fairy Tail",
+      "valor": 1000,
+      "tag": "redfox_gajeel"
+    },
+    {
+      "nombre": "Laxus",
+      "genero": "Masculino",
+      "serie": "Fairy Tail",
+      "valor": 1400,
+      "tag": "dreyar_laxus"
+    },
+    {
+      "nombre": "Zeref",
+      "genero": "Masculino",
+      "serie": "Fairy Tail",
+      "valor": 2000,
+      "tag": "zeref_(fairy_tail)"
+    },
+    {
+      "nombre": "Acnologia",
+      "genero": "Masculino",
+      "serie": "Fairy Tail",
+      "valor": 2500,
+      "tag": "acnologia"
+    },
+    {
+      "nombre": "Chisato",
+      "genero": "Femenino",
+      "serie": "Lycoris Recoil",
+      "valor": 1000,
+      "tag": "nishikigi_chisato"
+    },
+    {
+      "nombre": "Takina",
+      "genero": "Femenino",
+      "serie": "Lycoris Recoil",
+      "valor": 950,
+      "tag": "inoue_takina"
+    },
+    {
+      "nombre": "Kurumi",
+      "genero": "Femenino",
+      "serie": "Lycoris Recoil",
+      "valor": 850,
+      "tag": "kurumi_(lycoris_recoil)"
+    },
+    {
+      "nombre": "Mizuki",
+      "genero": "Femenino",
+      "serie": "Lycoris Recoil",
+      "valor": 800,
+      "tag": "mizuki_(lycoris_recoil)"
+    },
+    {
+      "nombre": "Fuki",
+      "genero": "Femenino",
+      "serie": "Lycoris Recoil",
+      "valor": 750,
+      "tag": "fuki_(lycoris_recoil)"
+    },
+    {
+      "nombre": "Shinji",
+      "genero": "Masculino",
+      "serie": "Lycoris Recoil",
+      "valor": 700,
+      "tag": "yoshimatsu_shinji"
+    },
+    {
+      "nombre": "Majima",
+      "genero": "Masculino",
+      "serie": "Lycoris Recoil",
+      "valor": 900,
+      "tag": "majima_(lycoris_recoil)"
+    },
+    {
+      "nombre": "Noelle",
+      "genero": "Femenino",
+      "serie": "Black Clover",
+      "valor": 900,
+      "tag": "noelle_silva"
+    },
+    {
+      "nombre": "Mimosa",
+      "genero": "Femenino",
+      "serie": "Black Clover",
+      "valor": 800,
+      "tag": "vermillion_mimosa"
+    },
+    {
+      "nombre": "Vanessa",
+      "genero": "Femenino",
+      "serie": "Black Clover",
+      "valor": 850,
+      "tag": "enoteca_vanessa"
+    },
+    {
+      "nombre": "Charlotte",
+      "genero": "Femenino",
+      "serie": "Black Clover",
+      "valor": 950,
+      "tag": "roselei_charlotte"
+    },
+    {
+      "nombre": "Mereoleona",
+      "genero": "Femenino",
+      "serie": "Black Clover",
+      "valor": 1100,
+      "tag": "vermillion_mereoleona"
+    },
+    {
+      "nombre": "Secre",
+      "genero": "Femenino",
+      "serie": "Black Clover",
+      "valor": 850,
+      "tag": "secre_swallowtail"
+    },
+    {
+      "nombre": "Dorothy",
+      "genero": "Femenino",
+      "serie": "Black Clover",
+      "valor": 800,
+      "tag": "unsworth_dorothy"
+    },
+    {
+      "nombre": "Loropechika",
+      "genero": "Femenino",
+      "serie": "Black Clover",
+      "valor": 900,
+      "tag": "loropechika"
+    },
+    {
+      "nombre": "Asta",
+      "genero": "Masculino",
+      "serie": "Black Clover",
+      "valor": 1100,
+      "tag": "asta_(black_clover)"
+    },
+    {
+      "nombre": "Yuno",
+      "genero": "Masculino",
+      "serie": "Black Clover",
+      "valor": 1200,
+      "tag": "grinberyall_yuno"
+    },
+    {
+      "nombre": "Luck",
+      "genero": "Masculino",
+      "serie": "Black Clover",
+      "valor": 900,
+      "tag": "voltia_luck"
+    },
+    {
+      "nombre": "Magna",
+      "genero": "Masculino",
+      "serie": "Black Clover",
+      "valor": 800,
+      "tag": "swing_magna"
+    },
+    {
+      "nombre": "Yami",
+      "genero": "Masculino",
+      "serie": "Black Clover",
+      "valor": 1500,
+      "tag": "sukehiro_yami"
+    },
+    {
+      "nombre": "Julius",
+      "genero": "Masculino",
+      "serie": "Black Clover",
+      "valor": 1800,
+      "tag": "novachrono_julius"
+    },
+    {
+      "nombre": "Fuegoleon",
+      "genero": "Masculino",
+      "serie": "Black Clover",
+      "valor": 1300,
+      "tag": "vermillion_fuegoleon"
+    },
+    {
+      "nombre": "Licht",
+      "genero": "Masculino",
+      "serie": "Black Clover",
+      "valor": 1600,
+      "tag": "licht_(black_clover)"
+    },
+    {
+      "nombre": "Biscuit",
+      "genero": "Femenino",
+      "serie": "Hunter x Hunter",
+      "valor": 1000,
+      "tag": "biscuit_krueger"
+    },
+    {
+      "nombre": "Neon",
+      "genero": "Femenino",
+      "serie": "Hunter x Hunter",
+      "valor": 700,
+      "tag": "nostrade_neon"
+    },
+    {
+      "nombre": "Machi",
+      "genero": "Femenino",
+      "serie": "Hunter x Hunter",
+      "valor": 900,
+      "tag": "machi_komacine"
+    },
+    {
+      "nombre": "Palm",
+      "genero": "Femenino",
+      "serie": "Hunter x Hunter",
+      "valor": 800,
+      "tag": "siberia_palm"
+    },
+    {
+      "nombre": "Gon",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 1200,
+      "tag": "freecss_gon"
+    },
+    {
+      "nombre": "Killua",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 1300,
+      "tag": "zoldyck_killua"
+    },
+    {
+      "nombre": "Kurapika",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 1100,
+      "tag": "kurta_kurapika"
+    },
+    {
+      "nombre": "Leorio",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 900,
+      "tag": "paradinight_leorio"
+    },
+    {
+      "nombre": "Hisoka",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 1500,
+      "tag": "morow_hisoka"
+    },
+    {
+      "nombre": "Illumi",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 1400,
+      "tag": "zoldyck_illumi"
+    },
+    {
+      "nombre": "Chrollo",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 1800,
+      "tag": "lucilfer_chrollo"
+    },
+    {
+      "nombre": "Netero",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 2000,
+      "tag": "netero_isaac"
+    },
+    {
+      "nombre": "Meruem",
+      "genero": "Masculino",
+      "serie": "Hunter x Hunter",
+      "valor": 2500,
+      "tag": "meruem"
+    },
+    {
+      "nombre": "Bisky",
+      "genero": "Femenino",
+      "serie": "Hunter x Hunter",
+      "valor": 1000,
+      "tag": "biscuit_krueger"
+    },
+    {
+      "nombre": "Winry",
+      "genero": "Femenino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 800,
+      "tag": "rockbell_winry"
+    },
+    {
+      "nombre": "Riza",
+      "genero": "Femenino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1000,
+      "tag": "hawkeye_riza"
+    },
+    {
+      "nombre": "Lan Fan",
+      "genero": "Femenino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 900,
+      "tag": "lan_fan"
+    },
+    {
+      "nombre": "Olivier",
+      "genero": "Femenino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1100,
+      "tag": "armstrong_olivier"
+    },
+    {
+      "nombre": "Mei",
+      "genero": "Femenino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 700,
+      "tag": "chang_mei"
+    },
+    {
+      "nombre": "Izumi",
+      "genero": "Femenino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1000,
+      "tag": "curtis_izumi"
+    },
+    {
+      "nombre": "Edward",
+      "genero": "Masculino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1200,
+      "tag": "elric_edward"
+    },
+    {
+      "nombre": "Alphonse",
+      "genero": "Masculino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1100,
+      "tag": "elric_alphonse"
+    },
+    {
+      "nombre": "Roy",
+      "genero": "Masculino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1400,
+      "tag": "mustang_roy"
+    },
+    {
+      "nombre": "Scar",
+      "genero": "Masculino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1200,
+      "tag": "scar_(fma)"
+    },
+    {
+      "nombre": "Greed",
+      "genero": "Masculino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1100,
+      "tag": "greed_(fma)"
+    },
+    {
+      "nombre": "Envy",
+      "genero": "Masculino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1000,
+      "tag": "envy_(fma)"
+    },
+    {
+      "nombre": "Father",
+      "genero": "Masculino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 2000,
+      "tag": "father_(fma)"
+    },
+    {
+      "nombre": "Hohenheim",
+      "genero": "Masculino",
+      "serie": "Fullmetal Alchemist",
+      "valor": 1500,
+      "tag": "hohenheim_of_light"
+    },
+    {
+      "nombre": "Rias",
+      "genero": "Femenino",
+      "serie": "Highschool DxD",
+      "valor": 1200,
+      "tag": "rias_gremory"
+    },
+    {
+      "nombre": "Akeno",
+      "genero": "Femenino",
+      "serie": "Highschool DxD",
+      "valor": 1100,
+      "tag": "himejima_akeno"
+    },
+    {
+      "nombre": "Asia",
+      "genero": "Femenino",
+      "serie": "Highschool DxD",
+      "valor": 850,
+      "tag": "argento_asia"
+    },
+    {
+      "nombre": "Xenovia",
+      "genero": "Femenino",
+      "serie": "Highschool DxD",
+      "valor": 950,
+      "tag": "quarta_xenovia"
+    },
+    {
+      "nombre": "Koneko",
+      "genero": "Femenino",
+      "serie": "Highschool DxD",
+      "valor": 900,
+      "tag": "toujou_koneko"
+    },
+    {
+      "nombre": "Irina",
+      "genero": "Femenino",
+      "serie": "Highschool DxD",
+      "valor": 850,
+      "tag": "shidou_irina"
+    },
+    {
+      "nombre": "Rossweisse",
+      "genero": "Femenino",
+      "serie": "Highschool DxD",
+      "valor": 800,
+      "tag": "rossweisse_(dxd)"
+    },
+    {
+      "nombre": "Ravel",
+      "genero": "Femenino",
+      "serie": "Highschool DxD",
+      "valor": 850,
+      "tag": "phenex_ravel"
+    },
+    {
+      "nombre": "Issei",
+      "genero": "Masculino",
+      "serie": "Highschool DxD",
+      "valor": 1000,
+      "tag": "hyoudou_issei"
+    },
+    {
+      "nombre": "Vali",
+      "genero": "Masculino",
+      "serie": "Highschool DxD",
+      "valor": 1400,
+      "tag": "lucifer_vali"
+    },
+    {
+      "nombre": "Azazel",
+      "genero": "Masculino",
+      "serie": "Highschool DxD",
+      "valor": 1500,
+      "tag": "azazel_(dxd)"
+    },
+    {
+      "nombre": "Sirzechs",
+      "genero": "Masculino",
+      "serie": "Highschool DxD",
+      "valor": 2000,
+      "tag": "lucifer_sirzechs"
+    },
+    {
+      "nombre": "Shiro",
+      "genero": "Femenino",
+      "serie": "No Game No Life",
+      "valor": 1100,
+      "tag": "shiro_(no_game_no_life)"
+    },
+    {
+      "nombre": "Stephanie",
+      "genero": "Femenino",
+      "serie": "No Game No Life",
+      "valor": 700,
+      "tag": "dola_stephanie"
+    },
+    {
+      "nombre": "Jibril",
+      "genero": "Femenino",
+      "serie": "No Game No Life",
+      "valor": 1300,
+      "tag": "jibril_(no_game_no_life)"
+    },
+    {
+      "nombre": "Izuna",
+      "genero": "Femenino",
+      "serie": "No Game No Life",
+      "valor": 900,
+      "tag": "hatsuse_izuna"
+    },
+    {
+      "nombre": "Sora",
+      "genero": "Masculino",
+      "serie": "No Game No Life",
+      "valor": 1000,
+      "tag": "sora_(no_game_no_life)"
+    },
+    {
+      "nombre": "Kurami",
+      "genero": "Femenino",
+      "serie": "No Game No Life",
+      "valor": 800,
+      "tag": "zell_kurami"
+    },
+    {
+      "nombre": "Kaguya",
+      "genero": "Femenino",
+      "serie": "Kaguya-sama Love is War",
+      "valor": 1000,
+      "tag": "shinomiya_kaguya"
+    },
+    {
+      "nombre": "Chika",
+      "genero": "Femenino",
+      "serie": "Kaguya-sama Love is War",
+      "valor": 950,
+      "tag": "fujiwara_chika"
+    },
+    {
+      "nombre": "Miko",
+      "genero": "Femenino",
+      "serie": "Kaguya-sama Love is War",
+      "valor": 850,
+      "tag": "iino_miko"
+    },
+    {
+      "nombre": "Hayasaka",
+      "genero": "Femenino",
+      "serie": "Kaguya-sama Love is War",
+      "valor": 900,
+      "tag": "hayasaka_ai"
+    },
+    {
+      "nombre": "Shirogane",
+      "genero": "Masculino",
+      "serie": "Kaguya-sama Love is War",
+      "valor": 900,
+      "tag": "shirogane_miyuki"
+    },
+    {
+      "nombre": "Ishigami",
+      "genero": "Masculino",
+      "serie": "Kaguya-sama Love is War",
+      "valor": 800,
+      "tag": "ishigami_yu"
+    },
+    {
+      "nombre": "Taiga",
+      "genero": "Femenino",
+      "serie": "Toradora",
+      "valor": 950,
+      "tag": "aisaka_taiga"
+    },
+    {
+      "nombre": "Minori",
+      "genero": "Femenino",
+      "serie": "Toradora",
+      "valor": 850,
+      "tag": "kushieda_minori"
+    },
+    {
+      "nombre": "Ami",
+      "genero": "Femenino",
+      "serie": "Toradora",
+      "valor": 900,
+      "tag": "kawashima_ami"
+    },
+    {
+      "nombre": "Ryuuji",
+      "genero": "Masculino",
+      "serie": "Toradora",
+      "valor": 800,
+      "tag": "takasu_ryuuji"
+    },
+    {
+      "nombre": "Kitamura",
+      "genero": "Masculino",
+      "serie": "Toradora",
+      "valor": 700,
+      "tag": "kitamura_yuusaku"
+    },
+    {
+      "nombre": "Chizuru",
+      "genero": "Femenino",
+      "serie": "Rent a Girlfriend",
+      "valor": 1000,
+      "tag": "mizuhara_chizuru"
+    },
+    {
+      "nombre": "Ruka",
+      "genero": "Femenino",
+      "serie": "Rent a Girlfriend",
+      "valor": 900,
+      "tag": "sarashina_ruka"
+    },
+    {
+      "nombre": "Sumi",
+      "genero": "Femenino",
+      "serie": "Rent a Girlfriend",
+      "valor": 850,
+      "tag": "sakurasawa_sumi"
+    },
+    {
+      "nombre": "Mami",
+      "genero": "Femenino",
+      "serie": "Rent a Girlfriend",
+      "valor": 800,
+      "tag": "nanami_mami"
+    },
+    {
+      "nombre": "Kazuya",
+      "genero": "Masculino",
+      "serie": "Rent a Girlfriend",
+      "valor": 700,
+      "tag": "kinoshita_kazuya"
+    },
+    {
+      "nombre": "Kanade",
+      "genero": "Femenino",
+      "serie": "Angel Beats",
+      "valor": 1200,
+      "tag": "tachibana_kanade"
+    },
+    {
+      "nombre": "Yuri",
+      "genero": "Femenino",
+      "serie": "Angel Beats",
+      "valor": 1000,
+      "tag": "nakamura_yuri"
+    },
+    {
+      "nombre": "Yui",
+      "genero": "Femenino",
+      "serie": "Angel Beats",
+      "valor": 900,
+      "tag": "yui_(angel_beats)"
+    },
+    {
+      "nombre": "Shiina",
+      "genero": "Femenino",
+      "serie": "Angel Beats",
+      "valor": 850,
+      "tag": "shiina_(angel_beats)"
+    },
+    {
+      "nombre": "Otonashi",
+      "genero": "Masculino",
+      "serie": "Angel Beats",
+      "valor": 900,
+      "tag": "otonashi_yuzuru"
+    },
+    {
+      "nombre": "Hideki",
+      "genero": "Masculino",
+      "serie": "Angel Beats",
+      "valor": 750,
+      "tag": "hinata_hideki"
+    },
+    {
+      "nombre": "Nagisa",
+      "genero": "Femenino",
+      "serie": "Clannad",
+      "valor": 1100,
+      "tag": "furukawa_nagisa"
+    },
+    {
+      "nombre": "Tomoyo",
+      "genero": "Femenino",
+      "serie": "Clannad",
+      "valor": 1000,
+      "tag": "sakagami_tomoyo"
+    },
+    {
+      "nombre": "Kyou",
+      "genero": "Femenino",
+      "serie": "Clannad",
+      "valor": 950,
+      "tag": "fujibayashi_kyou"
+    },
+    {
+      "nombre": "Kotomi",
+      "genero": "Femenino",
+      "serie": "Clannad",
+      "valor": 900,
+      "tag": "ichinose_kotomi"
+    },
+    {
+      "nombre": "Fuko",
+      "genero": "Femenino",
+      "serie": "Clannad",
+      "valor": 850,
+      "tag": "ibuki_fuuko"
+    },
+    {
+      "nombre": "Yukine",
+      "genero": "Femenino",
+      "serie": "Clannad",
+      "valor": 800,
+      "tag": "miyazawa_yukine"
+    },
+    {
+      "nombre": "Tomoya",
+      "genero": "Masculino",
+      "serie": "Clannad",
+      "valor": 900,
+      "tag": "okazaki_tomoya"
+    },
+    {
+      "nombre": "Akio",
+      "genero": "Masculino",
+      "serie": "Clannad",
+      "valor": 800,
+      "tag": "furukawa_akio"
+    },
+    {
+      "nombre": "Yumeko",
+      "genero": "Femenino",
+      "serie": "Kakegurui",
+      "valor": 1100,
+      "tag": "jabami_yumeko"
+    },
+    {
+      "nombre": "Mary",
+      "genero": "Femenino",
+      "serie": "Kakegurui",
+      "valor": 950,
+      "tag": "saotome_mary"
+    },
+    {
+      "nombre": "Kirari",
+      "genero": "Femenino",
+      "serie": "Kakegurui",
+      "valor": 1200,
+      "tag": "momobami_kirari"
+    },
+    {
+      "nombre": "Ririka",
+      "genero": "Femenino",
+      "serie": "Kakegurui",
+      "valor": 1100,
+      "tag": "momobami_ririka"
+    },
+    {
+      "nombre": "Midari",
+      "genero": "Femenino",
+      "serie": "Kakegurui",
+      "valor": 1000,
+      "tag": "ikishima_midari"
+    },
+    {
+      "nombre": "Yuriko",
+      "genero": "Femenino",
+      "serie": "Kakegurui",
+      "valor": 900,
+      "tag": "nishinotouin_yuriko"
+    },
+    {
+      "nombre": "Sayaka",
+      "genero": "Femenino",
+      "serie": "Kakegurui",
+      "valor": 850,
+      "tag": "igarashi_sayaka"
+    },
+    {
+      "nombre": "Itsuki",
+      "genero": "Femenino",
+      "serie": "Kakegurui",
+      "valor": 800,
+      "tag": "sumeragi_itsuki"
+    },
+    {
+      "nombre": "Misty",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 900,
+      "tag": "kasumi_(pokemon)"
+    },
+    {
+      "nombre": "Dawn",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 900,
+      "tag": "hikari_(pokemon)"
+    },
+    {
+      "nombre": "Serena",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 900,
+      "tag": "serena_(pokemon)"
+    },
+    {
+      "nombre": "May",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 850,
+      "tag": "haruka_(pokemon)"
+    },
+    {
+      "nombre": "Cynthia",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 1100,
+      "tag": "shirona_(pokemon)"
+    },
+    {
+      "nombre": "Iris",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 800,
+      "tag": "iris_(pokemon)"
+    },
+    {
+      "nombre": "Rosa",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 850,
+      "tag": "mei_(pokemon)"
+    },
+    {
+      "nombre": "Hilda",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 850,
+      "tag": "touko_(pokemon)"
+    },
+    {
+      "nombre": "Nessa",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 1000,
+      "tag": "rurina_(pokemon)"
+    },
+    {
+      "nombre": "Gloria",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 900,
+      "tag": "yuuri_(pokemon)"
+    },
+    {
+      "nombre": "Marnie",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 850,
+      "tag": "maril_(pokemon)"
+    },
+    {
+      "nombre": "Hex Maniac",
+      "genero": "Femenino",
+      "serie": "Pokemon",
+      "valor": 900,
+      "tag": "hex_maniac_(pokemon)"
+    },
+    {
+      "nombre": "Ash",
+      "genero": "Masculino",
+      "serie": "Pokemon",
+      "valor": 1200,
+      "tag": "satoshi_(pokemon)"
+    },
+    {
+      "nombre": "Red",
+      "genero": "Masculino",
+      "serie": "Pokemon",
+      "valor": 1500,
+      "tag": "red_(pokemon)"
+    },
+    {
+      "nombre": "Gladion",
+      "genero": "Masculino",
+      "serie": "Pokemon",
+      "valor": 1000,
+      "tag": "glazio_(pokemon)"
+    },
+    {
+      "nombre": "Leon",
+      "genero": "Masculino",
+      "serie": "Pokemon",
+      "valor": 1300,
+      "tag": "dande_(pokemon)"
+    },
+    {
+      "nombre": "Goh",
+      "genero": "Masculino",
+      "serie": "Pokemon",
+      "valor": 900,
+      "tag": "go_(pokemon)"
+    },
+    {
+      "nombre": "Miku",
+      "genero": "Femenino",
+      "serie": "Vocaloid",
+      "valor": 1500,
+      "tag": "hatsune_miku"
+    },
+    {
+      "nombre": "Luka",
+      "genero": "Femenino",
+      "serie": "Vocaloid",
+      "valor": 1200,
+      "tag": "megurine_luka"
+    },
+    {
+      "nombre": "Rin",
+      "genero": "Femenino",
+      "serie": "Vocaloid",
+      "valor": 1100,
+      "tag": "kagamine_rin"
+    },
+    {
+      "nombre": "Gumi",
+      "genero": "Femenino",
+      "serie": "Vocaloid",
+      "valor": 1000,
+      "tag": "gumi_(vocaloid)"
+    },
+    {
+      "nombre": "IA",
+      "genero": "Femenino",
+      "serie": "Vocaloid",
+      "valor": 1000,
+      "tag": "ia_(vocaloid)"
+    },
+    {
+      "nombre": "Meiko",
+      "genero": "Femenino",
+      "serie": "Vocaloid",
+      "valor": 1000,
+      "tag": "meiko_(vocaloid)"
+    },
+    {
+      "nombre": "Kaito",
+      "genero": "Masculino",
+      "serie": "Vocaloid",
+      "valor": 1100,
+      "tag": "kaito_(vocaloid)"
+    },
+    {
+      "nombre": "Len",
+      "genero": "Masculino",
+      "serie": "Vocaloid",
+      "valor": 1000,
+      "tag": "kagamine_len"
+    },
+    {
+      "nombre": "Priestess",
+      "genero": "Femenino",
+      "serie": "Goblin Slayer",
+      "valor": 900,
+      "tag": "priestess_(goblin_slayer)"
+    },
+    {
+      "nombre": "High Elf Archer",
+      "genero": "Femenino",
+      "serie": "Goblin Slayer",
+      "valor": 950,
+      "tag": "high_elf_archer_(goblin_slayer)"
+    },
+    {
+      "nombre": "Cow Girl",
+      "genero": "Femenino",
+      "serie": "Goblin Slayer",
+      "valor": 850,
+      "tag": "cow_girl_(goblin_slayer)"
+    },
+    {
+      "nombre": "Sword Maiden",
+      "genero": "Femenino",
+      "serie": "Goblin Slayer",
+      "valor": 1000,
+      "tag": "sword_maiden_(goblin_slayer)"
+    },
+    {
+      "nombre": "Witch",
+      "genero": "Femenino",
+      "serie": "Goblin Slayer",
+      "valor": 900,
+      "tag": "witch_(goblin_slayer)"
+    },
+    {
+      "nombre": "Guild Girl",
+      "genero": "Femenino",
+      "serie": "Goblin Slayer",
+      "valor": 800,
+      "tag": "guild_girl_(goblin_slayer)"
+    },
+    {
+      "nombre": "Goblin Slayer",
+      "genero": "Masculino",
+      "serie": "Goblin Slayer",
+      "valor": 1100,
+      "tag": "goblin_slayer_(character)"
+    },
+    {
+      "nombre": "Dwarf Shaman",
+      "genero": "Masculino",
+      "serie": "Goblin Slayer",
+      "valor": 900,
+      "tag": "dwarf_shaman_(goblin_slayer)"
+    },
+    {
+      "nombre": "Kiana",
+      "genero": "Femenino",
+      "serie": "Honkai Impact",
+      "valor": 1000,
+      "tag": "kiana_kaslana"
+    },
+    {
+      "nombre": "Mei",
+      "genero": "Femenino",
+      "serie": "Honkai Impact",
+      "valor": 1100,
+      "tag": "raiden_mei"
+    },
+    {
+      "nombre": "Bronya",
+      "genero": "Femenino",
+      "serie": "Honkai Impact",
+      "valor": 1000,
+      "tag": "bronya_zaychik"
+    },
+    {
+      "nombre": "Seele",
+      "genero": "Femenino",
+      "serie": "Honkai Impact",
+      "valor": 1000,
+      "tag": "seele_vollerei"
+    },
+    {
+      "nombre": "Theresa",
+      "genero": "Femenino",
+      "serie": "Honkai Impact",
+      "valor": 950,
+      "tag": "theresa_apocalypse"
+    },
+    {
+      "nombre": "Himeko",
+      "genero": "Femenino",
+      "serie": "Honkai Impact",
+      "valor": 1000,
+      "tag": "himeko_murata"
+    },
+    {
+      "nombre": "Elysia",
+      "genero": "Femenino",
+      "serie": "Honkai Impact",
+      "valor": 1200,
+      "tag": "elysia_(honkai)"
+    },
+    {
+      "nombre": "Mobius",
+      "genero": "Femenino",
+      "serie": "Honkai Impact",
+      "valor": 1300,
+      "tag": "mobius_(honkai)"
+    },
+    {
+      "nombre": "Stelle",
+      "genero": "Femenino",
+      "serie": "Honkai Star Rail",
+      "valor": 900,
+      "tag": "stelle_(star_rail)"
+    },
+    {
+      "nombre": "Seele",
+      "genero": "Femenino",
+      "serie": "Honkai Star Rail",
+      "valor": 1000,
+      "tag": "seele_(star_rail)"
+    },
+    {
+      "nombre": "Bronya",
+      "genero": "Femenino",
+      "serie": "Honkai Star Rail",
+      "valor": 950,
+      "tag": "bronya_(star_rail)"
+    },
+    {
+      "nombre": "Asta",
+      "genero": "Femenino",
+      "serie": "Honkai Star Rail",
+      "valor": 850,
+      "tag": "asta_(star_rail)"
+    },
+    {
+      "nombre": "Herta",
+      "genero": "Femenino",
+      "serie": "Honkai Star Rail",
+      "valor": 900,
+      "tag": "herta_(star_rail)"
+    },
+    {
+      "nombre": "Kafka",
+      "genero": "Femenino",
+      "serie": "Honkai Star Rail",
+      "valor": 1100,
+      "tag": "kafka_(star_rail)"
+    },
+    {
+      "nombre": "Blade",
+      "genero": "Masculino",
+      "serie": "Honkai Star Rail",
+      "valor": 1200,
+      "tag": "blade_(star_rail)"
+    },
+    {
+      "nombre": "Jing Yuan",
+      "genero": "Masculino",
+      "serie": "Honkai Star Rail",
+      "valor": 1300,
+      "tag": "jing_yuan_(star_rail)"
+    },
+    {
+      "nombre": "Luocha",
+      "genero": "Masculino",
+      "serie": "Honkai Star Rail",
+      "valor": 1100,
+      "tag": "luocha_(star_rail)"
+    },
+    {
+      "nombre": "Dan Heng",
+      "genero": "Masculino",
+      "serie": "Honkai Star Rail",
+      "valor": 1000,
+      "tag": "dan_heng_(star_rail)"
+    },
+    {
+      "nombre": "Enterprise",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 1200,
+      "tag": "enterprise_(azur_lane)"
+    },
+    {
+      "nombre": "Belfast",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 1100,
+      "tag": "belfast_(azur_lane)"
+    },
+    {
+      "nombre": "Atago",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 1000,
+      "tag": "atago_(azur_lane)"
+    },
+    {
+      "nombre": "Takao",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 1000,
+      "tag": "takao_(azur_lane)"
+    },
+    {
+      "nombre": "Tirpitz",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 1000,
+      "tag": "tirpitz_(azur_lane)"
+    },
+    {
+      "nombre": "Illustrious",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 1100,
+      "tag": "illustrious_(azur_lane)"
+    },
+    {
+      "nombre": "Unicorn",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 900,
+      "tag": "unicorn_(azur_lane)"
+    },
+    {
+      "nombre": "Shimakaze",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 950,
+      "tag": "shimakaze_(azur_lane)"
+    },
+    {
+      "nombre": "Bismarck",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 1300,
+      "tag": "bismarck_(azur_lane)"
+    },
+    {
+      "nombre": "Hood",
+      "genero": "Femenino",
+      "serie": "Azur Lane",
+      "valor": 1100,
+      "tag": "hood_(azur_lane)"
+    },
+    {
+      "nombre": "Sylphiette",
+      "genero": "Femenino",
+      "serie": "Mushoku Tensei",
+      "valor": 900,
+      "tag": "sylphiette_(mushoku)"
+    },
+    {
+      "nombre": "Roxy",
+      "genero": "Femenino",
+      "serie": "Mushoku Tensei",
+      "valor": 1000,
+      "tag": "migurdia_roxy"
+    },
+    {
+      "nombre": "Eris",
+      "genero": "Femenino",
+      "serie": "Mushoku Tensei",
+      "valor": 950,
+      "tag": "boreas_greyrat_eris"
+    },
+    {
+      "nombre": "Rudeus",
+      "genero": "Masculino",
+      "serie": "Mushoku Tensei",
+      "valor": 1000,
+      "tag": "greyrat_rudeus"
+    },
+    {
+      "nombre": "Ghislaine",
+      "genero": "Femenino",
+      "serie": "Mushoku Tensei",
+      "valor": 1100,
+      "tag": "dedoldia_ghislaine"
+    },
+    {
+      "nombre": "Nanahoshi",
+      "genero": "Femenino",
+      "serie": "Mushoku Tensei",
+      "valor": 850,
+      "tag": "nanahoshi_shizuka"
+    },
+    {
+      "nombre": "Ai",
+      "genero": "Femenino",
+      "serie": "Oshi no Ko",
+      "valor": 1200,
+      "tag": "hoshino_ai"
+    },
+    {
+      "nombre": "Ruby",
+      "genero": "Femenino",
+      "serie": "Oshi no Ko",
+      "valor": 1000,
+      "tag": "hoshino_ruby"
+    },
+    {
+      "nombre": "Mem-cho",
+      "genero": "Femenino",
+      "serie": "Oshi no Ko",
+      "valor": 850,
+      "tag": "mem_cho_(oshi_no_ko)"
+    },
+    {
+      "nombre": "Kana",
+      "genero": "Femenino",
+      "serie": "Oshi no Ko",
+      "valor": 950,
+      "tag": "arima_kana"
+    },
+    {
+      "nombre": "Aqua",
+      "genero": "Masculino",
+      "serie": "Oshi no Ko",
+      "valor": 1000,
+      "tag": "hoshino_aqua"
+    },
+    {
+      "nombre": "Gotanda",
+      "genero": "Masculino",
+      "serie": "Oshi no Ko",
+      "valor": 700,
+      "tag": "gotanda_taishi"
+    },
+    {
+      "nombre": "Hitori",
+      "genero": "Femenino",
+      "serie": "Bocchi the Rock",
+      "valor": 950,
+      "tag": "gotou_hitori"
+    },
+    {
+      "nombre": "Nijika",
+      "genero": "Femenino",
+      "serie": "Bocchi the Rock",
+      "valor": 900,
+      "tag": "ijichi_nijika"
+    },
+    {
+      "nombre": "Ryou",
+      "genero": "Femenino",
+      "serie": "Bocchi the Rock",
+      "valor": 950,
+      "tag": "yamada_ryou"
+    },
+    {
+      "nombre": "Ikuyo",
+      "genero": "Femenino",
+      "serie": "Bocchi the Rock",
+      "valor": 900,
+      "tag": "kita_ikuyo"
+    },
+    {
+      "nombre": "Kikuri",
+      "genero": "Femenino",
+      "serie": "Bocchi the Rock",
+      "valor": 850,
+      "tag": "hiroi_kikuri"
+    },
+    {
+      "nombre": "Marcille",
+      "genero": "Femenino",
+      "serie": "Dungeon Meshi",
+      "valor": 950,
+      "tag": "donato_marcille"
+    },
+    {
+      "nombre": "Falin",
+      "genero": "Femenino",
+      "serie": "Dungeon Meshi",
+      "valor": 900,
+      "tag": "touden_falin"
+    },
+    {
+      "nombre": "Chilchuck",
+      "genero": "Masculino",
+      "serie": "Dungeon Meshi",
+      "valor": 700,
+      "tag": "tims_chilchuck"
+    },
+    {
+      "nombre": "Laios",
+      "genero": "Masculino",
+      "serie": "Dungeon Meshi",
+      "valor": 900,
+      "tag": "touden_laios"
+    },
+    {
+      "nombre": "Senshi",
+      "genero": "Masculino",
+      "serie": "Dungeon Meshi",
+      "valor": 1000,
+      "tag": "senshi_(dungeon_meshi)"
+    },
+    {
+      "nombre": "Hestia",
+      "genero": "Femenino",
+      "serie": "DanMachi",
+      "valor": 1100,
+      "tag": "hestia_(danmachi)"
+    },
+    {
+      "nombre": "Ais",
+      "genero": "Femenino",
+      "serie": "DanMachi",
+      "valor": 1200,
+      "tag": "wallenstein_ais"
+    },
+    {
+      "nombre": "Eris",
+      "genero": "Femenino",
+      "serie": "DanMachi",
+      "valor": 1100,
+      "tag": "freya_(danmachi)"
+    },
+    {
+      "nombre": "Ryuu",
+      "genero": "Femenino",
+      "serie": "DanMachi",
+      "valor": 1000,
+      "tag": "lion_ryuu"
+    },
+    {
+      "nombre": "Haruhime",
+      "genero": "Femenino",
+      "serie": "DanMachi",
+      "valor": 950,
+      "tag": "sanjouno_haruhime"
+    },
+    {
+      "nombre": "Wiene",
+      "genero": "Femenino",
+      "serie": "DanMachi",
+      "valor": 900,
+      "tag": "wiene_(danmachi)"
+    },
+    {
+      "nombre": "Bell",
+      "genero": "Masculino",
+      "serie": "DanMachi",
+      "valor": 1000,
+      "tag": "cranel_bell"
+    },
+    {
+      "nombre": "Hermes",
+      "genero": "Masculino",
+      "serie": "DanMachi",
+      "valor": 1200,
+      "tag": "hermes_(danmachi)"
+    },
+    {
+      "nombre": "Misaka",
+      "genero": "Femenino",
+      "serie": "A Certain Magical Index",
+      "valor": 1200,
+      "tag": "misaka_mikoto"
+    },
+    {
+      "nombre": "Touma",
+      "genero": "Masculino",
+      "serie": "A Certain Magical Index",
+      "valor": 1100,
+      "tag": "kamijou_touma"
+    },
+    {
+      "nombre": "Index",
+      "genero": "Femenino",
+      "serie": "A Certain Magical Index",
+      "valor": 1000,
+      "tag": "index_librorum_prohibitorum"
+    },
+    {
+      "nombre": "Kuroko",
+      "genero": "Femenino",
+      "serie": "A Certain Magical Index",
+      "valor": 900,
+      "tag": "shirai_kuroko"
+    },
+    {
+      "nombre": "Accelerator",
+      "genero": "Masculino",
+      "serie": "A Certain Magical Index",
+      "valor": 1500,
+      "tag": "accelerator_(toaru)"
+    },
+    {
+      "nombre": "Shokuhou",
+      "genero": "Femenino",
+      "serie": "A Certain Magical Index",
+      "valor": 1000,
+      "tag": "shokuhou_misaki"
+    },
+    {
+      "nombre": "Last Order",
+      "genero": "Femenino",
+      "serie": "A Certain Magical Index",
+      "valor": 800,
+      "tag": "last_order_(toaru)"
+    },
+    {
+      "nombre": "Itsuwa",
+      "genero": "Femenino",
+      "serie": "A Certain Magical Index",
+      "valor": 850,
+      "tag": "itsuwa_(toaru)"
+    },
+    {
+      "nombre": "Honoka",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 900,
+      "tag": "kousaka_honoka"
+    },
+    {
+      "nombre": "Eli",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 950,
+      "tag": "ayase_eli"
+    },
+    {
+      "nombre": "Umi",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 950,
+      "tag": "sonoda_umi"
+    },
+    {
+      "nombre": "Kotori",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 900,
+      "tag": "minami_kotori"
+    },
+    {
+      "nombre": "Rin",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 850,
+      "tag": "hoshizora_rin"
+    },
+    {
+      "nombre": "Maki",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 1000,
+      "tag": "nishikino_maki"
+    },
+    {
+      "nombre": "Nozomi",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 950,
+      "tag": "tojo_nozomi"
+    },
+    {
+      "nombre": "Hanayo",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 850,
+      "tag": "koizumi_hanayo"
+    },
+    {
+      "nombre": "Nico",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 950,
+      "tag": "yazawa_nico"
+    },
+    {
+      "nombre": "Chika",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 900,
+      "tag": "takami_chika"
+    },
+    {
+      "nombre": "Riko",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 900,
+      "tag": "sakurauchi_riko"
+    },
+    {
+      "nombre": "Kanan",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 900,
+      "tag": "matsuura_kanan"
+    },
+    {
+      "nombre": "Dia",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 950,
+      "tag": "kurosawa_dia"
+    },
+    {
+      "nombre": "You",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 900,
+      "tag": "watanabe_you"
+    },
+    {
+      "nombre": "Hanamaru",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 850,
+      "tag": "kunikida_hanamaru"
+    },
+    {
+      "nombre": "Mari",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 950,
+      "tag": "ohara_mari"
+    },
+    {
+      "nombre": "Ruby",
+      "genero": "Femenino",
+      "serie": "Love Live",
+      "valor": 900,
+      "tag": "kurosawa_ruby"
+    },
+    {
+      "nombre": "Kyoko",
+      "genero": "Femenino",
+      "serie": "Danganronpa",
+      "valor": 1100,
+      "tag": "kirigiri_kyouko"
+    },
+    {
+      "nombre": "Sayaka",
+      "genero": "Femenino",
+      "serie": "Danganronpa",
+      "valor": 900,
+      "tag": "maizono_sayaka"
+    },
+    {
+      "nombre": "Junko",
+      "genero": "Femenino",
+      "serie": "Danganronpa",
+      "valor": 1300,
+      "tag": "enoshima_junko"
+    },
+    {
+      "nombre": "Chiaki",
+      "genero": "Femenino",
+      "serie": "Danganronpa",
+      "valor": 1000,
+      "tag": "nanami_chiaki"
+    },
+    {
+      "nombre": "Makoto",
+      "genero": "Masculino",
+      "serie": "Danganronpa",
+      "valor": 900,
+      "tag": "naegi_makoto"
+    },
+    {
+      "nombre": "Nagito",
+      "genero": "Masculino",
+      "serie": "Danganronpa",
+      "valor": 950,
+      "tag": "komaeda_nagito"
+    },
+    {
+      "nombre": "Hajime",
+      "genero": "Masculino",
+      "serie": "Danganronpa",
+      "valor": 900,
+      "tag": "hinata_hajime"
+    },
+    {
+      "nombre": "Gundham",
+      "genero": "Masculino",
+      "serie": "Danganronpa",
+      "valor": 850,
+      "tag": "tanaka_gundham"
+    },
+    {
+      "nombre": "Rei",
+      "genero": "Femenino",
+      "serie": "Neon Genesis Evangelion",
+      "valor": 1200,
+      "tag": "ayanami_rei"
+    },
+    {
+      "nombre": "Asuka",
+      "genero": "Femenino",
+      "serie": "Neon Genesis Evangelion",
+      "valor": 1100,
+      "tag": "souryuu_asuka_langley"
+    },
+    {
+      "nombre": "Misato",
+      "genero": "Femenino",
+      "serie": "Neon Genesis Evangelion",
+      "valor": 1000,
+      "tag": "katsuragi_misato"
+    },
+    {
+      "nombre": "Ritsuko",
+      "genero": "Femenino",
+      "serie": "Neon Genesis Evangelion",
+      "valor": 900,
+      "tag": "akagi_ritsuko"
+    },
+    {
+      "nombre": "Mari",
+      "genero": "Femenino",
+      "serie": "Neon Genesis Evangelion",
+      "valor": 950,
+      "tag": "illustrious_makinami"
+    },
+    {
+      "nombre": "Shinji",
+      "genero": "Masculino",
+      "serie": "Neon Genesis Evangelion",
+      "valor": 900,
+      "tag": "ikari_shinji"
+    },
+    {
+      "nombre": "Kaworu",
+      "genero": "Masculino",
+      "serie": "Neon Genesis Evangelion",
+      "valor": 1100,
+      "tag": "nagisa_kaworu"
+    },
+    {
+      "nombre": "Gendo",
+      "genero": "Masculino",
+      "serie": "Neon Genesis Evangelion",
+      "valor": 1000,
+      "tag": "ikari_gendo"
+    },
+    {
+      "nombre": "Yuri",
+      "genero": "Femenino",
+      "serie": "Tower of God",
+      "valor": 1100,
+      "tag": "jahad_yuri"
+    },
+    {
+      "nombre": "Endorsi",
+      "genero": "Femenino",
+      "serie": "Tower of God",
+      "valor": 1000,
+      "tag": "jahad_endorsi"
+    },
+    {
+      "nombre": "Hwaryun",
+      "genero": "Femenino",
+      "serie": "Tower of God",
+      "valor": 900,
+      "tag": "hwaryun_(tog)"
+    },
+    {
+      "nombre": "Anaak",
+      "genero": "Femenino",
+      "serie": "Tower of God",
+      "valor": 950,
+      "tag": "jahad_anaak"
+    },
+    {
+      "nombre": "Bam",
+      "genero": "Masculino",
+      "serie": "Tower of God",
+      "valor": 1200,
+      "tag": "jue_viole_grace"
+    },
+    {
+      "nombre": "Khun",
+      "genero": "Masculino",
+      "serie": "Tower of God",
+      "valor": 1100,
+      "tag": "khun_aguero_agnis"
+    },
+    {
+      "nombre": "Rak",
+      "genero": "Masculino",
+      "serie": "Tower of God",
+      "valor": 1000,
+      "tag": "wraithraiser_rak"
+    },
+    {
+      "nombre": "Karaka",
+      "genero": "Masculino",
+      "serie": "Tower of God",
+      "valor": 1300,
+      "tag": "karaka_(tog)"
+    },
+    {
+      "nombre": "Yukino",
+      "genero": "Femenino",
+      "serie": "My Teen Romantic Comedy SNAFU",
+      "valor": 1100,
+      "tag": "yukinoshita_yukino"
+    },
+    {
+      "nombre": "Yui",
+      "genero": "Femenino",
+      "serie": "My Teen Romantic Comedy SNAFU",
+      "valor": 1000,
+      "tag": "yuigahama_yui"
+    },
+    {
+      "nombre": "Iroha",
+      "genero": "Femenino",
+      "serie": "My Teen Romantic Comedy SNAFU",
+      "valor": 950,
+      "tag": "isshiki_iroha"
+    },
+    {
+      "nombre": "Haruno",
+      "genero": "Femenino",
+      "serie": "My Teen Romantic Comedy SNAFU",
+      "valor": 900,
+      "tag": "yukinoshita_haruno"
+    },
+    {
+      "nombre": "Hikigaya",
+      "genero": "Masculino",
+      "serie": "My Teen Romantic Comedy SNAFU",
+      "valor": 1000,
+      "tag": "hikigaya_hachiman"
+    },
+    {
+      "nombre": "Hayama",
+      "genero": "Masculino",
+      "serie": "My Teen Romantic Comedy SNAFU",
+      "valor": 800,
+      "tag": "hayama_hayato"
+    },
+    {
+      "nombre": "Madoka",
+      "genero": "Femenino",
+      "serie": "Puella Magi Madoka Magica",
+      "valor": 1000,
+      "tag": "kaname_madoka"
+    },
+    {
+      "nombre": "Homura",
+      "genero": "Femenino",
+      "serie": "Puella Magi Madoka Magica",
+      "valor": 1400,
+      "tag": "akemi_homura"
+    },
+    {
+      "nombre": "Mami",
+      "genero": "Femenino",
+      "serie": "Puella Magi Madoka Magica",
+      "valor": 1000,
+      "tag": "tomoe_mami"
+    },
+    {
+      "nombre": "Sayaka",
+      "genero": "Femenino",
+      "serie": "Puella Magi Madoka Magica",
+      "valor": 950,
+      "tag": "miki_sayaka"
+    },
+    {
+      "nombre": "Kyoko",
+      "genero": "Femenino",
+      "serie": "Puella Magi Madoka Magica",
+      "valor": 1000,
+      "tag": "sakura_kyoko"
+    },
+    {
+      "nombre": "LLENN",
+      "genero": "Femenino",
+      "serie": "Gun Gale Online",
+      "valor": 950,
+      "tag": "llenn_(ggo)"
+    },
+    {
+      "nombre": "Fukaziroh",
+      "genero": "Femenino",
+      "serie": "Gun Gale Online",
+      "valor": 850,
+      "tag": "fukaziroh_(ggo)"
+    },
+    {
+      "nombre": "Pito",
+      "genero": "Femenino",
+      "serie": "Gun Gale Online",
+      "valor": 1000,
+      "tag": "pitohui_(ggo)"
+    },
+    {
+      "nombre": "M",
+      "genero": "Masculino",
+      "serie": "Gun Gale Online",
+      "valor": 800,
+      "tag": "m_(ggo)"
+    },
+    {
+      "nombre": "Shion",
+      "genero": "Femenino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 1000,
+      "tag": "shion_(tensura)"
+    },
+    {
+      "nombre": "Shuna",
+      "genero": "Femenino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 950,
+      "tag": "shuna_(tensura)"
+    },
+    {
+      "nombre": "Milim",
+      "genero": "Femenino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 1200,
+      "tag": "nava_milim"
+    },
+    {
+      "nombre": "Treyni",
+      "genero": "Femenino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 900,
+      "tag": "treyni_(tensura)"
+    },
+    {
+      "nombre": "Hinata",
+      "genero": "Femenino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 1000,
+      "tag": "sakaguchi_hinata"
+    },
+    {
+      "nombre": "Ruminas",
+      "genero": "Femenino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 1100,
+      "tag": "ruminas_valentine"
+    },
+    {
+      "nombre": "Rimuru",
+      "genero": "Masculino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 1500,
+      "tag": "tempest_rimuru"
+    },
+    {
+      "nombre": "Benimaru",
+      "genero": "Masculino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 1200,
+      "tag": "benimaru_(tensura)"
+    },
+    {
+      "nombre": "Hakurou",
+      "genero": "Masculino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 1100,
+      "tag": "hakurou_(tensura)"
+    },
+    {
+      "nombre": "Diablo",
+      "genero": "Masculino",
+      "serie": "That Time I Got Reincarnated as a Slime",
+      "valor": 1500,
+      "tag": "diablo_(tensura)"
+    },
+    {
+      "nombre": "Hitomi",
+      "genero": "Femenino",
+      "serie": "Iroduku The World in Colors",
+      "valor": 900,
+      "tag": "tsurumi_hitomi"
+    },
+    {
+      "nombre": "Asagi",
+      "genero": "Femenino",
+      "serie": "Iroduku The World in Colors",
+      "valor": 800,
+      "tag": "kazeno_asagi"
+    },
+    {
+      "nombre": "Aya",
+      "genero": "Femenino",
+      "serie": "Magical Girl Site",
+      "valor": 900,
+      "tag": "asagiri_aya"
+    },
+    {
+      "nombre": "Tsuyuno",
+      "genero": "Femenino",
+      "serie": "Magical Girl Site",
+      "valor": 950,
+      "tag": "yatsumura_tsuyuno"
+    },
+    {
+      "nombre": "Sakura",
+      "genero": "Femenino",
+      "serie": "Cardcaptor Sakura",
+      "valor": 1100,
+      "tag": "kinomoto_sakura"
+    },
+    {
+      "nombre": "Tomoyo",
+      "genero": "Femenino",
+      "serie": "Cardcaptor Sakura",
+      "valor": 950,
+      "tag": "daidouji_tomoyo"
+    },
+    {
+      "nombre": "Syaoran",
+      "genero": "Masculino",
+      "serie": "Cardcaptor Sakura",
+      "valor": 900,
+      "tag": "li_syaoran"
+    },
+    {
+      "nombre": "Yukito",
+      "genero": "Masculino",
+      "serie": "Cardcaptor Sakura",
+      "valor": 900,
+      "tag": "tsukishiro_yukito"
+    },
+    {
+      "nombre": "Meiling",
+      "genero": "Femenino",
+      "serie": "Cardcaptor Sakura",
+      "valor": 850,
+      "tag": "li_meiling"
+    },
+    {
+      "nombre": "Usagi",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1200,
+      "tag": "tsukino_usagi"
+    },
+    {
+      "nombre": "Rei",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1000,
+      "tag": "hino_rei"
+    },
+    {
+      "nombre": "Ami",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1000,
+      "tag": "mizuno_ami"
+    },
+    {
+      "nombre": "Makoto",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1000,
+      "tag": "kino_makoto"
+    },
+    {
+      "nombre": "Minako",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1000,
+      "tag": "aino_minako"
+    },
+    {
+      "nombre": "Chibiusa",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 950,
+      "tag": "chibiusa"
+    },
+    {
+      "nombre": "Haruka",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1100,
+      "tag": "tenou_haruka"
+    },
+    {
+      "nombre": "Michiru",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1100,
+      "tag": "kaiou_michiru"
+    },
+    {
+      "nombre": "Hotaru",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1000,
+      "tag": "tomoe_hotaru"
+    },
+    {
+      "nombre": "Setsuna",
+      "genero": "Femenino",
+      "serie": "Sailor Moon",
+      "valor": 1000,
+      "tag": "meiou_setsuna"
+    },
+    {
+      "nombre": "Rin",
+      "genero": "Masculino",
+      "serie": "Free!",
+      "valor": 900,
+      "tag": "matsuoka_rin"
+    },
+    {
+      "nombre": "Haruka",
+      "genero": "Masculino",
+      "serie": "Free!",
+      "valor": 950,
+      "tag": "nanase_haruka"
+    },
+    {
+      "nombre": "Makoto",
+      "genero": "Masculino",
+      "serie": "Free!",
+      "valor": 900,
+      "tag": "tachibana_makoto"
+    },
+    {
+      "nombre": "Nagisa",
+      "genero": "Masculino",
+      "serie": "Free!",
+      "valor": 800,
+      "tag": "hazuki_nagisa"
+    },
+    {
+      "nombre": "Rei",
+      "genero": "Masculino",
+      "serie": "Free!",
+      "valor": 800,
+      "tag": "ryugazaki_rei"
+    },
+    {
+      "nombre": "Sousuke",
+      "genero": "Masculino",
+      "serie": "Free!",
+      "valor": 950,
+      "tag": "yamazaki_sousuke"
+    },
+    {
+      "nombre": "Hinata",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 1000,
+      "tag": "shoyo_hinata"
+    },
+    {
+      "nombre": "Kageyama",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 1000,
+      "tag": "tobio_kageyama"
+    },
+    {
+      "nombre": "Tsukishima",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 900,
+      "tag": "kei_tsukishima"
+    },
+    {
+      "nombre": "Yamaguchi",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 800,
+      "tag": "tadashi_yamaguchi"
+    },
+    {
+      "nombre": "Nishinoya",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 900,
+      "tag": "yu_nishinoya"
+    },
+    {
+      "nombre": "Asahi",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 900,
+      "tag": "azumane_asahi"
+    },
+    {
+      "nombre": "Oikawa",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 1100,
+      "tag": "tooru_oikawa"
+    },
+    {
+      "nombre": "Bokuto",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 1100,
+      "tag": "kotaro_bokuto"
+    },
+    {
+      "nombre": "Kuroo",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 1100,
+      "tag": "tetsurou_kuroo"
+    },
+    {
+      "nombre": "Kenma",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 1000,
+      "tag": "kozume_kenma"
+    },
+    {
+      "nombre": "Ushijima",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 1200,
+      "tag": "wakatoshi_ushijima"
+    },
+    {
+      "nombre": "Kita",
+      "genero": "Masculino",
+      "serie": "Haikyuu",
+      "valor": 1000,
+      "tag": "shinsuke_kita"
+    },
+    {
+      "nombre": "Isagi",
+      "genero": "Masculino",
+      "serie": "Blue Lock",
+      "valor": 1100,
+      "tag": "yoichi_isagi"
+    },
+    {
+      "nombre": "Bachira",
+      "genero": "Masculino",
+      "serie": "Blue Lock",
+      "valor": 1000,
+      "tag": "meguru_bachira"
+    },
+    {
+      "nombre": "Nagi",
+      "genero": "Masculino",
+      "serie": "Blue Lock",
+      "valor": 1100,
+      "tag": "seishiro_nagi"
+    },
+    {
+      "nombre": "Reo",
+      "genero": "Masculino",
+      "serie": "Blue Lock",
+      "valor": 1100,
+      "tag": "mikage_reo"
+    },
+    {
+      "nombre": "Kaiser",
+      "genero": "Masculino",
+      "serie": "Blue Lock",
+      "valor": 1300,
+      "tag": "michael_kaiser"
+    },
+    {
+      "nombre": "Rin",
+      "genero": "Masculino",
+      "serie": "Blue Lock",
+      "valor": 1400,
+      "tag": "itoshi_rin"
+    },
+    {
+      "nombre": "Sae",
+      "genero": "Masculino",
+      "serie": "Blue Lock",
+      "valor": 1500,
+      "tag": "itoshi_sae"
+    },
+    {
+      "nombre": "Chigiri",
+      "genero": "Masculino",
+      "serie": "Blue Lock",
+      "valor": 1000,
+      "tag": "hyoma_chigiri"
+    },
+    {
+      "nombre": "Lala",
+      "genero": "Femenino",
+      "serie": "To Love-Ru",
+      "valor": 1000,
+      "tag": "deviluke_lala"
+    },
+    {
+      "nombre": "Momo",
+      "genero": "Femenino",
+      "serie": "To Love-Ru",
+      "valor": 950,
+      "tag": "deviluke_momo"
+    },
+    {
+      "nombre": "Nana",
+      "genero": "Femenino",
+      "serie": "To Love-Ru",
+      "valor": 900,
+      "tag": "deviluke_nana"
+    },
+    {
+      "nombre": "Yui",
+      "genero": "Femenino",
+      "serie": "To Love-Ru",
+      "valor": 950,
+      "tag": "kotegawa_yui"
+    },
+    {
+      "nombre": "Haruna",
+      "genero": "Femenino",
+      "serie": "To Love-Ru",
+      "valor": 900,
+      "tag": "sairenji_haruna"
+    },
+    {
+      "nombre": "Ryoko",
+      "genero": "Femenino",
+      "serie": "To Love-Ru",
+      "valor": 950,
+      "tag": "mikado_ryouko"
+    },
+    {
+      "nombre": "Mea",
+      "genero": "Femenino",
+      "serie": "To Love-Ru",
+      "valor": 900,
+      "tag": "kurosaki_mea"
+    },
+    {
+      "nombre": "Golden Darkness",
+      "genero": "Femenino",
+      "serie": "To Love-Ru",
+      "valor": 1000,
+      "tag": "golden_darkness"
+    },
+    {
+      "nombre": "Rito",
+      "genero": "Masculino",
+      "serie": "To Love-Ru",
+      "valor": 800,
+      "tag": "yuuki_rito"
+    },
+    {
+      "nombre": "Tohru",
+      "genero": "Femenino",
+      "serie": "Fruits Basket",
+      "valor": 1000,
+      "tag": "honda_tohru"
+    },
+    {
+      "nombre": "Akito",
+      "genero": "Femenino",
+      "serie": "Fruits Basket",
+      "valor": 1100,
+      "tag": "sohma_akito"
+    },
+    {
+      "nombre": "Uotani",
+      "genero": "Femenino",
+      "serie": "Fruits Basket",
+      "valor": 800,
+      "tag": "arisa_uotani"
+    },
+    {
+      "nombre": "Hanajima",
+      "genero": "Femenino",
+      "serie": "Fruits Basket",
+      "valor": 850,
+      "tag": "saki_hanajima"
+    },
+    {
+      "nombre": "Kyo",
+      "genero": "Masculino",
+      "serie": "Fruits Basket",
+      "valor": 1000,
+      "tag": "sohma_kyo"
+    },
+    {
+      "nombre": "Yuki",
+      "genero": "Masculino",
+      "serie": "Fruits Basket",
+      "valor": 1100,
+      "tag": "sohma_yuki"
+    },
+    {
+      "nombre": "Shigure",
+      "genero": "Masculino",
+      "serie": "Fruits Basket",
+      "valor": 1000,
+      "tag": "sohma_shigure"
+    },
+    {
+      "nombre": "Hatsuharu",
+      "genero": "Masculino",
+      "serie": "Fruits Basket",
+      "valor": 950,
+      "tag": "sohma_hatsuharu"
+    },
+    {
+      "nombre": "Haruhi",
+      "genero": "Femenino",
+      "serie": "Ouran High School Host Club",
+      "valor": 950,
+      "tag": "fujioka_haruhi"
+    },
+    {
+      "nombre": "Tamaki",
+      "genero": "Masculino",
+      "serie": "Ouran High School Host Club",
+      "valor": 1000,
+      "tag": "suou_tamaki"
+    },
+    {
+      "nombre": "Kyoya",
+      "genero": "Masculino",
+      "serie": "Ouran High School Host Club",
+      "valor": 1000,
+      "tag": "ootori_kyouya"
+    },
+    {
+      "nombre": "Hikaru",
+      "genero": "Masculino",
+      "serie": "Ouran High School Host Club",
+      "valor": 900,
+      "tag": "hitachiin_hikaru"
+    },
+    {
+      "nombre": "Kaoru",
+      "genero": "Masculino",
+      "serie": "Ouran High School Host Club",
+      "valor": 900,
+      "tag": "hitachiin_kaoru"
+    },
+    {
+      "nombre": "Honey",
+      "genero": "Masculino",
+      "serie": "Ouran High School Host Club",
+      "valor": 850,
+      "tag": "haninozuka_mitsukuni"
+    },
+    {
+      "nombre": "Mori",
+      "genero": "Masculino",
+      "serie": "Ouran High School Host Club",
+      "valor": 950,
+      "tag": "morinozuka_takashi"
+    },
+    {
+      "nombre": "Thorfinn",
+      "genero": "Masculino",
+      "serie": "Vinland Saga",
+      "valor": 1200,
+      "tag": "thorfinn_(vinland)"
+    },
+    {
+      "nombre": "Askeladd",
+      "genero": "Masculino",
+      "serie": "Vinland Saga",
+      "valor": 1500,
+      "tag": "askeladd_(vinland)"
+    },
+    {
+      "nombre": "Canute",
+      "genero": "Masculino",
+      "serie": "Vinland Saga",
+      "valor": 1200,
+      "tag": "canute_(vinland)"
+    },
+    {
+      "nombre": "Bjorn",
+      "genero": "Masculino",
+      "serie": "Vinland Saga",
+      "valor": 1100,
+      "tag": "bjorn_(vinland)"
+    },
+    {
+      "nombre": "Thors",
+      "genero": "Masculino",
+      "serie": "Vinland Saga",
+      "valor": 1600,
+      "tag": "thors_(vinland)"
+    },
+    {
+      "nombre": "Kamisato Ayaka",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 850,
+      "tag": "kamisato_ayaka"
+    },
+    {
+      "nombre": "Navia",
+      "genero": "Femenino",
+      "serie": "Genshin Impact",
+      "valor": 800,
+      "tag": "navia_(genshin_impact)"
+    },
+    {
+      "nombre": "Kaeya",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 750,
+      "tag": "kaeya_(genshin_impact)"
+    },
+    {
+      "nombre": "Childe",
+      "genero": "Masculino",
+      "serie": "Genshin Impact",
+      "valor": 820,
+      "tag": "tartaglia_(genshin_impact)"
+    },
+    {
+      "nombre": "Kafka",
+      "genero": "Femenino",
+      "serie": "Honkai: Star Rail",
+      "valor": 900,
+      "tag": "kafka_(honkai:_star_rail)"
+    },
+    {
+      "nombre": "Bronya Rand",
+      "genero": "Femenino",
+      "serie": "Honkai: Star Rail",
+      "valor": 820,
+      "tag": "bronya_rand"
+    },
+    {
+      "nombre": "Silver Wolf",
+      "genero": "Femenino",
+      "serie": "Honkai: Star Rail",
+      "valor": 850,
+      "tag": "silver_wolf_(honkai:_star_rail)"
+    },
+    {
+      "nombre": "Black Swan",
+      "genero": "Femenino",
+      "serie": "Honkai: Star Rail",
+      "valor": 870,
+      "tag": "black_swan_(honkai:_star_rail)"
+    },
+    {
+      "nombre": "Acheron",
+      "genero": "Femenino",
+      "serie": "Honkai: Star Rail",
+      "valor": 920,
+      "tag": "acheron_(honkai:_star_rail)"
+    },
+    {
+      "nombre": "Firefly",
+      "genero": "Femenino",
+      "serie": "Honkai: Star Rail",
+      "valor": 900,
+      "tag": "firefly_(honkai:_star_rail)"
+    },
+    {
+      "nombre": "Asuna",
+      "genero": "Femenino",
+      "serie": "Blue Archive",
+      "valor": 800,
+      "tag": "ichinose_asuna"
+    },
+    {
+      "nombre": "Hina Sorasaki",
+      "genero": "Femenino",
+      "serie": "Blue Archive",
+      "valor": 820,
+      "tag": "sorasaki_hina"
+    },
+    {
+      "nombre": "Mika",
+      "genero": "Femenino",
+      "serie": "Blue Archive",
+      "valor": 850,
+      "tag": "misono_mika"
+    },
+    {
+      "nombre": "Kobeni Higashiyama",
+      "genero": "Femenino",
+      "serie": "Chainsaw Man",
+      "valor": 700,
+      "tag": "higashiyama_kobeni"
+    },
+    {
+      "nombre": "Aki Hayakawa",
+      "genero": "Masculino",
+      "serie": "Chainsaw Man",
+      "valor": 780,
+      "tag": "hayakawa_aki"
+    },
+    {
+      "nombre": "Yuji Itadori",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 820,
+      "tag": "itadori_yuuji"
+    },
+    {
+      "nombre": "Megumi Fushiguro",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 800,
+      "tag": "fushiguro_megumi"
+    },
+    {
+      "nombre": "Satoru Gojo",
+      "genero": "Masculino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 950,
+      "tag": "gojou_satoru"
+    },
+    {
+      "nombre": "Nobara Kugisaki",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 780,
+      "tag": "kugisaki_nobara"
+    },
+    {
+      "nombre": "Maki Zenin",
+      "genero": "Femenino",
+      "serie": "Jujutsu Kaisen",
+      "valor": 800,
+      "tag": "zen'in_maki"
+    },
+    {
+      "nombre": "Yor Forger",
+      "genero": "Femenino",
+      "serie": "Spy x Family",
+      "valor": 880,
+      "tag": "yor_briar"
+    },
+    {
+      "nombre": "Anya Forger",
+      "genero": "Femenino",
+      "serie": "Spy x Family",
+      "valor": 800,
+      "tag": "anya_(spy_x_family)"
+    },
+    {
+      "nombre": "Loid Forger",
+      "genero": "Masculino",
+      "serie": "Spy x Family",
+      "valor": 830,
+      "tag": "twilight_(spy_x_family)"
+    },
+    {
+      "nombre": "Tanjiro Kamado",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 820,
+      "tag": "kamado_tanjirou"
+    },
+    {
+      "nombre": "Nezuko Kamado",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 850,
+      "tag": "kamado_nezuko"
+    },
+    {
+      "nombre": "Zenitsu Agatsuma",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 770,
+      "tag": "agatsuma_zenitsu"
+    },
+    {
+      "nombre": "Inosuke Hashibira",
+      "genero": "Masculino",
+      "serie": "Demon Slayer",
+      "valor": 770,
+      "tag": "hashibira_inosuke"
+    },
+    {
+      "nombre": "Mitsuri Kanroji",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 850,
+      "tag": "kanroji_mitsuri"
+    },
+    {
+      "nombre": "Shinobu Kocho",
+      "genero": "Femenino",
+      "serie": "Demon Slayer",
+      "valor": 850,
+      "tag": "kochou_shinobu"
+    },
+    {
+      "nombre": "Izuku Midoriya",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 800,
+      "tag": "midoriya_izuku"
+    },
+    {
+      "nombre": "Bakugo Katsuki",
+      "genero": "Masculino",
+      "serie": "My Hero Academia",
+      "valor": 780,
+      "tag": "bakugou_katsuki"
+    },
+    {
+      "nombre": "Ochaco Uraraka",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 770,
+      "tag": "uraraka_ochako"
+    },
+    {
+      "nombre": "Tsuyu Asui",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 750,
+      "tag": "asui_tsuyu"
+    },
+    {
+      "nombre": "Momo Yaoyorozu",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 800,
+      "tag": "yaoyorozu_momo"
+    },
+    {
+      "nombre": "Himiko Toga",
+      "genero": "Femenino",
+      "serie": "My Hero Academia",
+      "valor": 850,
+      "tag": "toga_himiko"
+    },
+    {
+      "nombre": "Frieren",
+      "genero": "Femenino",
+      "serie": "Sousou no Frieren",
+      "valor": 900,
+      "tag": "frieren"
+    },
+    {
+      "nombre": "Fern",
+      "genero": "Femenino",
+      "serie": "Sousou no Frieren",
+      "valor": 820,
+      "tag": "fern_(sousou_no_frieren)"
+    },
+    {
+      "nombre": "Ai Hoshino",
+      "genero": "Femenino",
+      "serie": "Oshi no Ko",
+      "valor": 900,
+      "tag": "hoshino_ai"
+    },
+    {
+      "nombre": "Ruby Hoshino",
+      "genero": "Femenino",
+      "serie": "Oshi no Ko",
+      "valor": 800,
+      "tag": "hoshino_ruby"
+    },
+    {
+      "nombre": "Akane Kurokawa",
+      "genero": "Femenino",
+      "serie": "Oshi no Ko",
+      "valor": 820,
+      "tag": "kurokawa_akane"
+    },
+    {
+      "nombre": "Kana Arima",
+      "genero": "Femenino",
+      "serie": "Oshi no Ko",
+      "valor": 800,
+      "tag": "arima_kana"
+    },
+    {
+      "nombre": "Hitori Gotoh",
+      "genero": "Femenino",
+      "serie": "Bocchi the Rock!",
+      "valor": 800,
+      "tag": "gotou_hitori"
+    },
+    {
+      "nombre": "Ikuyo Kita",
+      "genero": "Femenino",
+      "serie": "Bocchi the Rock!",
+      "valor": 780,
+      "tag": "kita_ikuyo"
+    },
+    {
+      "nombre": "Chisato Nishikigi",
+      "genero": "Femenino",
+      "serie": "Lycoris Recoil",
+      "valor": 850,
+      "tag": "nishikigi_chisato"
+    },
+    {
+      "nombre": "Takina Inoue",
+      "genero": "Femenino",
+      "serie": "Lycoris Recoil",
+      "valor": 830,
+      "tag": "inoue_takina"
+    },
+    {
+      "nombre": "Naruto Uzumaki",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 820,
+      "tag": "uzumaki_naruto"
+    },
+    {
+      "nombre": "Sasuke Uchiha",
+      "genero": "Masculino",
+      "serie": "Naruto",
+      "valor": 850,
+      "tag": "uchiha_sasuke"
+    },
+    {
+      "nombre": "Sakura Haruno",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 750,
+      "tag": "haruno_sakura"
+    },
+    {
+      "nombre": "Hinata Hyuga",
+      "genero": "Femenino",
+      "serie": "Naruto",
+      "valor": 800,
+      "tag": "hyuuga_hinata"
+    },
+    {
+      "nombre": "Sakura Kinomoto",
+      "genero": "Femenino",
+      "serie": "Cardcaptor Sakura",
+      "valor": 800,
+      "tag": "kinomoto_sakura"
+    },
+    {
+      "nombre": "Monkey D. Luffy",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 900,
+      "tag": "monkey_d._luffy"
+    },
+    {
+      "nombre": "Roronoa Zoro",
+      "genero": "Masculino",
+      "serie": "One Piece",
+      "valor": 850,
+      "tag": "roronoa_zoro"
+    },
+    {
+      "nombre": "Nico Robin",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 880,
+      "tag": "nico_robin"
+    },
+    {
+      "nombre": "Uta",
+      "genero": "Femenino",
+      "serie": "One Piece",
+      "valor": 830,
+      "tag": "uta_(one_piece)"
+    },
+    {
+      "nombre": "Ichigo Kurosaki",
+      "genero": "Masculino",
+      "serie": "Bleach",
+      "valor": 850,
+      "tag": "kurosaki_ichigo"
+    },
+    {
+      "nombre": "Rukia Kuchiki",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 820,
+      "tag": "kuchiki_rukia"
+    },
+    {
+      "nombre": "Orihime Inoue",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 800,
+      "tag": "inoue_orihime"
+    },
+    {
+      "nombre": "Yoruichi Shihouin",
+      "genero": "Femenino",
+      "serie": "Bleach",
+      "valor": 850,
+      "tag": "shihouin_yoruichi"
+    },
+    {
+      "nombre": "Hatsune Miku",
+      "genero": "Femenino",
+      "serie": "Vocaloid",
+      "valor": 900,
+      "tag": "hatsune_miku"
+    },
+    {
+      "nombre": "Megurine Luka",
+      "genero": "Femenino",
+      "serie": "Vocaloid",
+      "valor": 850,
+      "tag": "megurine_luka"
+    },
+    {
+      "nombre": "Reimu Hakurei",
+      "genero": "Femenino",
+      "serie": "Touhou",
+      "valor": 820,
+      "tag": "hakurei_reimu"
+    },
+    {
+      "nombre": "Marisa Kirisame",
+      "genero": "Femenino",
+      "serie": "Touhou",
+      "valor": 820,
+      "tag": "kirisame_marisa"
+    },
+    {
+      "nombre": "Remilia Scarlet",
+      "genero": "Femenino",
+      "serie": "Touhou",
+      "valor": 850,
+      "tag": "remilia_scarlet"
+    },
+    {
+      "nombre": "Flandre Scarlet",
+      "genero": "Femenino",
+      "serie": "Touhou",
+      "valor": 870,
+      "tag": "flandre_scarlet"
+    },
+    {
+      "nombre": "Joker (Akira)",
+      "genero": "Masculino",
+      "serie": "Persona 5",
+      "valor": 880,
+      "tag": "amamiya_ren"
+    },
+    {
+      "nombre": "Ann Takamaki",
+      "genero": "Femenino",
+      "serie": "Persona 5",
+      "valor": 850,
+      "tag": "takamaki_anne"
+    },
+    {
+      "nombre": "Makoto Niijima",
+      "genero": "Femenino",
+      "serie": "Persona 5",
+      "valor": 830,
+      "tag": "niijima_makoto"
+    },
+    {
+      "nombre": "2B",
+      "genero": "Femenino",
+      "serie": "Nier: Automata",
+      "valor": 950,
+      "tag": "yorha_no._2_type_b"
+    },
+    {
+      "nombre": "A2",
+      "genero": "Femenino",
+      "serie": "Nier: Automata",
+      "valor": 900,
+      "tag": "yorha_type_a_no._2"
+    }
+  ]
+}

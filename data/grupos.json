@@ -1,0 +1,92 @@
+{
+  "120363347917460184@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363426185401970@g.us": {
+    "bienvenida": true,
+    "mensajeBienvenida": "hi 👋",
+    "despedida": true,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "antilink": true,
+    "encuesta": {
+      "pregunta": "q es mejor ?",
+      "opciones": [
+        "salchipapa",
+        "hamburguesa"
+      ],
+      "votos": {
+        "202207764951281@lid": 1
+      },
+      "autor": "202207764951281@lid",
+      "fecha": 1776629831450
+    },
+    "welcomeImagePath": "/home/runner/workspace/data/images/welcome_120363426185401970_g_us.jpg",
+    "goodbyeImagePath": "/home/runner/workspace/data/images/goodbye_120363426185401970_g_us.jpg"
+  },
+  "120363403232405912@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "202207764951281@lid": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3,
+    "nsfw": true
+  },
+  "120363405742101034@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363426342220001@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": true,
+    "limiteAdvertencias": 3,
+    "economyOn": false,
+    "gachaOn": false
+  },
+  "120363407219717833@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363401240611140@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363400550758592@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  }
+}

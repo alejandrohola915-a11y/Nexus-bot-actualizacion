@@ -1,0 +1,15 @@
+{
+  "vagabundo": {
+    "nombre": "vagabundo",
+    "lider": "202207764951281@lid",
+    "miembros": [
+      "202207764951281@lid",
+      "124602017677540@lid"
+    ],
+    "xp": 0,
+    "nivel": 1,
+    "creado": 1776628476943,
+    "descripcion": "los más vagos",
+    "fotoUrl": "/home/runner/workspace/data/clan_fotos/vagabundo.jpg"
+  }
+}
