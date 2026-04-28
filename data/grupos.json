@@ -88,5 +88,21 @@
     "mensajeDespedida": "Hasta luego @usuario 👋",
     "soloAdmin": false,
     "limiteAdvertencias": 3
+  },
+  "120363403880986205@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
+  },
+  "120363401131071578@g.us": {
+    "bienvenida": false,
+    "mensajeBienvenida": "¡Bienvenido/a @usuario al grupo!",
+    "despedida": false,
+    "mensajeDespedida": "Hasta luego @usuario 👋",
+    "soloAdmin": false,
+    "limiteAdvertencias": 3
   }
 }
